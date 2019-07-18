@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 15 Jul 2019 06:45:59 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，前端工程师 🌈 连续…]]></description><link>https://dwb1994.github.io//about/</link><guid isPermaLink="false">https://dwb1994.github.io//about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 18 Jul 2019 18:05:19 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，前端工程师 🌈 连续…]]></description><link>https://dwb1994.github.io//about/</link><guid isPermaLink="false">https://dwb1994.github.io//about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
 &lt;p&gt;🐶 董文博，前端工程师&lt;/p&gt;
 &lt;p&gt;🌈 连续 4 年素描画、水粉画的学习经验，对产品、交互、视觉设计一直保有浓厚兴趣，在追求用户体验的道路上持续探索&lt;/p&gt;
 &lt;p&gt;📱 喜欢折腾各种电子产品，热爱互联网行业，很庆幸大学读了计科专业，现在有能力做些喜欢的事情&lt;/p&gt;
@@ -336,10 +336,40 @@ tinycolor&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span 
   }
 }
 
-&lt;/style&gt;</content:encoded></item><item><title><![CDATA[YMFE 文化衫 2017]]></title><description><![CDATA[YMFE 文化衫 2017 作品信息 制作日期: 2017年 7月 7日
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[YApi Design]]></title><description><![CDATA[作品信息 制作日期: 2017年 8月 ~ 10月 设计师: 我自己 简介:  9.9k+ Star 的明星开源项目！ YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台。 背景: 本人参与了 YApi…]]></description><link>https://dwb1994.github.io//design/design-yapi/</link><guid isPermaLink="false">https://dwb1994.github.io//design/design-yapi/</guid><pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;制作日期: 2017年 8月 ~ 10月&lt;/li&gt;
+&lt;li&gt;设计师: 我自己&lt;/li&gt;
+&lt;li&gt;简介: &lt;strong&gt;9.9k+ Star 的明星开源项目！&lt;/strong&gt;YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台。 背景: 本人参与了 YApi 一期、二期的开发，其中一期开发没有设计稿，只有简单的原型图。因此在二期开发之前我根据二期开发的需求和交互稿，利用一个周末时间画出了8张界面设计稿，并制作了新版首页(没有设计稿，直接一遍设计一遍写页面)。&lt;/li&gt;
+&lt;li&gt;链接: &lt;a href=&quot;https://yapi.ymfe.org/&quot;&gt;YDoc 官网&lt;/a&gt; 丨 &lt;a href=&quot;https://github.com/YMFE/yapi&quot;&gt;Github&lt;/a&gt; | &lt;a href=&quot;http://yapi.demo.qunar.com/&quot;&gt;开放 Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本作品包含一整套 Web 站点的设计，采用移动优先原则：优先进行移动端页面的设计与开发，并在 PC 端实现响应式设计，有兴趣的同学可以在 YDoc 的源码里发现这一设计。&lt;/p&gt;
+&lt;h2&gt;鸣谢&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;YApi 使用了 &lt;a href=&quot;https://ant.design/index-cn&quot;&gt;Ant Design&lt;/a&gt; 组件库，这套设计语言非常棒，当时使用了 Ant Design 提供的 sketch 模板在很短的时间里产出了 8 张设计稿，非常给力！&lt;/li&gt;
+&lt;li&gt;感谢 &lt;a href=&quot;https://stripe.com/&quot;&gt;stripe&lt;/a&gt; 网站的设计，给了我很多的灵感！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;LOGO 设计&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/006oPFLAly1frrknd8z9lj306o06o3zd.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;红绿蓝，三原色，作为 LOGO 的配色，三个条纹夹角为 120°，相交于一个白色的圆形纽扣，相互连接。&lt;/p&gt;
+&lt;p&gt;YApi 接口管理平台旨在为开发、产品、测试人员提供更优雅的接口管理服务，因此这个 LOGO 寓意着打通“开发”、“产品”、“测试”三者之间的沟壑，共同获取更优雅的使用体验。&lt;/p&gt;
+&lt;h2&gt;页面设计&lt;/h2&gt;
+&lt;h3&gt;首页：&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/006oPFLAly1frrk5f11cnj32484pt15q.jpg&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;登录页：&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/006oPFLAly1frrkrxyy0vj327g18iqv5.jpg&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;项目广场：&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/006oPFLAly1frrkvr495ej3280254ana.jpg&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;接口列表：&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/006oPFLAly1frrkvq5764j328016679h.jpg&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;接口预览：&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/006oPFLAly1frrkvr7l2tj3280314wvc.jpg&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;强调一下&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;链接: &lt;a href=&quot;https://yapi.ymfe.org/&quot;&gt;YDoc 官网&lt;/a&gt; 丨 &lt;a href=&quot;https://github.com/YMFE/yapi&quot;&gt;Github&lt;/a&gt; | &lt;a href=&quot;http://yapi.demo.qunar.com/&quot;&gt;开放 Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[YMFE 文化衫 2017]]></title><description><![CDATA[作品信息 制作日期: 2017年 7月 7日
 设计师: 我自己
-简介:  2017年 团队文化衫： 黑色圆领T恤 LOGO 设计 配色使用了 YMFE 的主题色，也是我们 LOGO 的颜色  ； 使用了这一年比较流行的渐变色风格，并在 YMFE…]]></description><link>https://dwb1994.github.io//design/design-2017TShirt/</link><guid isPermaLink="false">https://dwb1994.github.io//design/design-2017TShirt/</guid><pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;YMFE 文化衫 2017&lt;/h1&gt;
-&lt;h2&gt;作品信息&lt;/h2&gt;
+简介:  2017年 团队文化衫： 黑色圆领T恤 LOGO 设计 配色使用了 YMFE 的主题色，也是我们 LOGO 的颜色  ； 使用了这一年比较流行的渐变色风格，并在 YMFE LOGO…]]></description><link>https://dwb1994.github.io//design/design-2017TShirt/</link><guid isPermaLink="false">https://dwb1994.github.io//design/design-2017TShirt/</guid><pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
 &lt;p&gt;制作日期: 2017年 7月 7日
 设计师: 我自己
 简介: &lt;strong&gt;2017年 团队文化衫： 黑色圆领T恤&lt;/strong&gt;&lt;/p&gt;
@@ -356,11 +386,10 @@ tinycolor&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span 
 &lt;h3&gt;合照：&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/006cGJIjly1fj1zp6yrkvj31jk1117ei.jpg&quot;&gt;
 &lt;img src=&quot;https://ws1.sinaimg.cn/large/006oPFLAly1frs12ay89mj30zk0qodit.jpg&quot;&gt;
-&lt;img src=&quot;https://ws1.sinaimg.cn/large/006oPFLAly1frs12azzmkj30zk0qoadc.jpg&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[YDoc Design]]></title><description><![CDATA[YDoc Design 作品信息 制作日期: 2018年 3月 ~ 4月
+&lt;img src=&quot;https://ws1.sinaimg.cn/large/006oPFLAly1frs12azzmkj30zk0qoadc.jpg&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[YDoc Design]]></title><description><![CDATA[作品信息 制作日期: 2018年 3月 ~ 4月
 设计师: 我和 @文杰 
 简介: YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点。
-链接:  YDoc 官网  丨  Github 本作品包含一整套 Web…]]></description><link>https://dwb1994.github.io//design/design-ydoc/</link><guid isPermaLink="false">https://dwb1994.github.io//design/design-ydoc/</guid><pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;YDoc Design&lt;/h1&gt;
-&lt;h2&gt;作品信息&lt;/h2&gt;
+链接:  YDoc 官网  丨  Github 本作品包含一整套 Web…]]></description><link>https://dwb1994.github.io//design/design-ydoc/</link><guid isPermaLink="false">https://dwb1994.github.io//design/design-ydoc/</guid><pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
 &lt;p&gt;制作日期: 2018年 3月 ~ 4月
 设计师: 我和&lt;a href=&quot;https://github.com/amnsss&quot;&gt;@文杰&lt;/a&gt;
 简介: YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点。
