@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Jun 2020 15:20:09 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，前端工程师 🌈 连续…]]></description><link>https://dwb1994.github.io//about/</link><guid isPermaLink="false">https://dwb1994.github.io//about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 24 Jun 2020 08:37:18 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，前端工程师 🌈 连续…]]></description><link>https://dwb1994.github.io//about/</link><guid isPermaLink="false">https://dwb1994.github.io//about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
 &lt;p&gt;🐶 董文博，前端工程师&lt;/p&gt;
 &lt;p&gt;🌈 连续 4 年素描画、水粉画的学习经验，对产品、交互、视觉设计一直保有浓厚兴趣，在追求用户体验的道路上持续探索&lt;/p&gt;
 &lt;p&gt;📱 喜欢折腾各种电子产品，热爱互联网行业，很庆幸大学读了计科专业，现在有能力做些喜欢的事情&lt;/p&gt;
-&lt;p&gt;💡 脑回路清奇，不喜欢枯燥乏味的事情，总喜欢搞点幺蛾子&lt;/p&gt;
+&lt;p&gt;💡 脑回路清奇，不喜欢枯燥乏味的事情&lt;/p&gt;
 &lt;h2&gt;关于网站&lt;/h2&gt;
 &lt;p&gt;本网站是我的个人博客，平时会记录我的工作、个人研究与兴趣爱好&lt;/p&gt;
 &lt;h2&gt;个人链接&lt;/h2&gt;
@@ -296,7 +296,7 @@ import { Redirect } from ‘react-router-dom’;
             component&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; NotFound&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
         &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
     &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[你不知道的 JavaScript (上)]]></title><description><![CDATA[读书笔记 - 未完待续]]></description><link>https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-1/</link><guid isPermaLink="false">https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-1/</guid><pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;读书笔记 - 未完待续&lt;/p&gt;</content:encoded></item><item><title><![CDATA[你不知道的 JavaScript (中)]]></title><description><![CDATA[读书笔记 - 未完待续]]></description><link>https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-2/</link><guid isPermaLink="false">https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-2/</guid><pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;读书笔记 - 未完待续&lt;/p&gt;</content:encoded></item><item><title><![CDATA[JavaScript 中的作用域]]></title><description><![CDATA[一、定义： 作用域（scope）是一套规则，用于确定“如何查找变量”以及“在何处查找变量”。 以“var a =…]]></description><link>https://dwb1994.github.io//blog/scope/</link><guid isPermaLink="false">https://dwb1994.github.io//blog/scope/</guid><pubDate>Thu, 30 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、定义：&lt;/h3&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[你不知道的 JavaScript (上)]]></title><description><![CDATA[读书笔记 - 未完待续]]></description><link>https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-1/</link><guid isPermaLink="false">https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-1/</guid><pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;读书笔记 - 未完待续&lt;/p&gt;</content:encoded></item><item><title><![CDATA[你不知道的 JavaScript (中)]]></title><description><![CDATA[读书笔记 - 未完待续]]></description><link>https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-2/</link><guid isPermaLink="false">https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-2/</guid><pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;读书笔记 - 未完待续&lt;/p&gt;</content:encoded></item><item><title><![CDATA[JavaScript 中的作用域]]></title><description><![CDATA[一、定义： 作用域（scope）是一套规则，用于确定“如何查找变量”以及“在何处查找变量”。 以“var a =…]]></description><link>https://dwb1994.github.io//blog/scope/</link><guid isPermaLink="false">https://dwb1994.github.io//blog/scope/</guid><pubDate>Mon, 20 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、定义：&lt;/h3&gt;
 &lt;p&gt;作用域（scope）是一套规则，用于确定“如何查找变量”以及“在何处查找变量”。&lt;/p&gt;
 &lt;p&gt;以“var a = 2”为例，变量的赋值操作会执行两个动作：&lt;/p&gt;
 &lt;ol&gt;
@@ -723,12 +723,12 @@ tinycolor&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span 
 &lt;h2&gt;强调一下&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;链接: &lt;a href=&quot;https://yapi.ymfe.org/&quot;&gt;YDoc 官网&lt;/a&gt; 丨 &lt;a href=&quot;https://github.com/YMFE/yapi&quot;&gt;Github&lt;/a&gt; | &lt;a href=&quot;http://yapi.demo.qunar.com/&quot;&gt;开放 Demo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[YMFE 文化衫 2017]]></title><description><![CDATA[作品信息 制作日期: 2017年 7月 7日
-设计师: 我自己
-简介:  2017年 团队文化衫： 黑色圆领T恤 LOGO 设计 配色使用了 YMFE 的主题色，也是我们 LOGO 的颜色  ； 使用了这一年比较流行的渐变色风格，并在 YMFE LOGO…]]></description><link>https://dwb1994.github.io//design/design-2017TShirt/</link><guid isPermaLink="false">https://dwb1994.github.io//design/design-2017TShirt/</guid><pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
-&lt;p&gt;制作日期: 2017年 7月 7日
-设计师: 我自己
-简介: &lt;strong&gt;2017年 团队文化衫： 黑色圆领T恤&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[YMFE 文化衫 2017]]></title><description><![CDATA[作品信息 制作日期: 2017年 7月 7日 设计师: 我自己 简介:  2017年 团队文化衫： 黑色圆领T恤 LOGO 设计 配色使用了 YMFE 的主题色，也是我们 LOGO 的颜色  ； 使用了这一年比较流行的渐变色风格，并在 YMFE LOGO…]]></description><link>https://dwb1994.github.io//design/design-2017TShirt/</link><guid isPermaLink="false">https://dwb1994.github.io//design/design-2017TShirt/</guid><pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;制作日期: 2017年 7月 7日&lt;/li&gt;
+&lt;li&gt;设计师: 我自己&lt;/li&gt;
+&lt;li&gt;简介: &lt;strong&gt;2017年 团队文化衫： 黑色圆领T恤&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;LOGO 设计&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006oPFLAly1frs0lrrvrhj33wv2jv7e7.jpg&quot;&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -742,14 +742,13 @@ tinycolor&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span 
 &lt;h3&gt;合照：&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006cGJIjly1fj1zp6yrkvj31jk1117ei.jpg&quot;&gt;
 &lt;img src=&quot;https://tva1.sinaimg.cn/large/006oPFLAly1frs12ay89mj30zk0qodit.jpg&quot;&gt;
-&lt;img src=&quot;https://tva1.sinaimg.cn/large/006oPFLAly1frs12azzmkj30zk0qoadc.jpg&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[YDoc Design]]></title><description><![CDATA[作品信息 制作日期: 2018年 3月 ~ 4月
-设计师: 我和 @文杰 
-简介: YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点。
-链接:  YDoc 官网  丨  Github 本作品包含一整套 Web…]]></description><link>https://dwb1994.github.io//design/design-ydoc/</link><guid isPermaLink="false">https://dwb1994.github.io//design/design-ydoc/</guid><pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
-&lt;p&gt;制作日期: 2018年 3月 ~ 4月
-设计师: 我和&lt;a href=&quot;https://github.com/amnsss&quot;&gt;@文杰&lt;/a&gt;
-简介: YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点。
-链接: &lt;a href=&quot;https://ydoc.ymfe.org/&quot;&gt;YDoc 官网&lt;/a&gt; 丨 &lt;a href=&quot;https://github.com/YMFE/ydoc&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&quot;https://tva1.sinaimg.cn/large/006oPFLAly1frs12azzmkj30zk0qoadc.jpg&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[YDoc Design]]></title><description><![CDATA[作品信息 制作日期: 2018年 3月 ~ 4月 设计师: 我和 @文杰 简介: YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点。 链接:  YDoc 官网  丨  Github 本作品包含一整套 Web…]]></description><link>https://dwb1994.github.io//design/design-ydoc/</link><guid isPermaLink="false">https://dwb1994.github.io//design/design-ydoc/</guid><pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;制作日期: 2018年 3月 ~ 4月&lt;/li&gt;
+&lt;li&gt;设计师: 我和&lt;a href=&quot;https://github.com/amnsss&quot;&gt;@文杰&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;简介: YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点。&lt;/li&gt;
+&lt;li&gt;链接: &lt;a href=&quot;https://ydoc.ymfe.org/&quot;&gt;YDoc 官网&lt;/a&gt; 丨 &lt;a href=&quot;https://github.com/YMFE/ydoc&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;本作品包含一整套 Web 站点的设计，采用移动优先原则：优先进行移动端页面的设计与开发，并在 PC 端实现响应式设计，有兴趣的同学可以在 YDoc 的源码里发现这一设计。&lt;/p&gt;
 &lt;h2&gt;设计规范&lt;/h2&gt;
 &lt;p&gt;YDoc 的设计稿经过设计师的几度推敲重做，诞生了现在你看到的默认主题 🤓，YDoc 有如下设计理念：&lt;/p&gt;
@@ -1699,28 +1698,36 @@ flexible.js源码：
 &lt;p&gt;在去哪儿网第二轮面试时遇到了杜瑶大神，在面试中交流了很多移动适配和响应式设计的细节。&lt;/p&gt;
 &lt;p&gt;去哪儿网内部使用Yo作为移动UI框架，是纯css方案，且支持响应式。在入职前要求自学这个框架，后面我会仔细研究，另发日志记录这个方案。&lt;/p&gt;
 &lt;p&gt;详见：&lt;a href=&quot;https://sdk.cn/news/3275&quot;&gt;Yo-高可定制化的UI框架&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[龙吟]]></title><description><![CDATA[…]]></description><link>https://dwb1994.github.io//blog/Dragons/</link><guid isPermaLink="false">https://dwb1994.github.io//blog/Dragons/</guid><pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;序&lt;/h2&gt;
-&lt;p&gt;悠悠古道，往而不返，晦明倒置，馨徳尽失。
-有心布道，无力回天。然非圣贤，且属文以祭之:
-拂行迷之木叶 以筑高台
-汲泉林之精华 以飨群英
-拾渐离之遗筑 以奏伶乐
-着血墨之笔砚 以为华文
-漫天繁星 倏然中归
-层云高璇 隐见惊雷
-此间洞天 光华溢坠
-密文阵列 盘桓纷飞&lt;/p&gt;
+&lt;p&gt;悠悠古道，往而不返，晦明倒置，馨徳尽失。&lt;/p&gt;
+&lt;p&gt;有心布道，无力回天。然非圣贤，且属文以祭之: &lt;/p&gt;
+&lt;p&gt;拂行迷之木叶 以筑高台&lt;/p&gt;
+&lt;p&gt;汲泉林之精华 以飨群英&lt;/p&gt;
+&lt;p&gt;拾渐离之遗筑 以奏伶乐&lt;/p&gt;
+&lt;p&gt;着血墨之笔砚 以为华文&lt;/p&gt;
+&lt;p&gt;漫天繁星 倏然中归&lt;/p&gt;
+&lt;p&gt;层云高璇 隐见惊雷&lt;/p&gt;
+&lt;p&gt;此间洞天 光华溢坠&lt;/p&gt;
+&lt;p&gt;密文阵列 盘桓纷飞&lt;/p&gt;
 &lt;h2&gt;其一&lt;/h2&gt;
-&lt;p&gt;上古洪荒开宗祖，华夏龙族亘万年。
-绫罗绸缪掩铜鉴，血壁疮痍劣迹镌。&lt;/p&gt;
+&lt;p&gt;上古洪荒开宗祖，&lt;/p&gt;
+&lt;p&gt;华夏龙族亘万年。&lt;/p&gt;
+&lt;p&gt;绫罗绸缪掩铜鉴，&lt;/p&gt;
+&lt;p&gt;血壁疮痍劣迹镌。&lt;/p&gt;
 &lt;h2&gt;其二&lt;/h2&gt;
-&lt;p&gt;驱车末路遇穷途，弃车闲步叹独孤。
-重枝密叶窥白鹿，宜当归隐不复出。&lt;/p&gt;
+&lt;p&gt;驱车末路遇穷途，&lt;/p&gt;
+&lt;p&gt;弃车闲步叹独孤。&lt;/p&gt;
+&lt;p&gt;重枝密叶窥白鹿，&lt;/p&gt;
+&lt;p&gt;宜当归隐不复出。&lt;/p&gt;
 &lt;h2&gt;其三&lt;/h2&gt;
-&lt;p&gt;三尺长铗饮龙泉，百战功名万骨缄。
-沙场长眠见哂笑，古来武夫岂知源。&lt;/p&gt;
+&lt;p&gt;三尺长铗饮龙泉，&lt;/p&gt;
+&lt;p&gt;百战功名万骨缄。&lt;/p&gt;
+&lt;p&gt;沙场长眠见哂笑，&lt;/p&gt;
+&lt;p&gt;古来武夫岂知源。&lt;/p&gt;
 &lt;h2&gt;其四&lt;/h2&gt;
-&lt;p&gt;式微式微胡不归？思归思归梦几回？
-山雾寒麓泪雨坠，零落卷散岂可追？&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2016 秋招百度、搜狐、去哪儿、网易面经]]></title><description><![CDATA[前言： 2016年8月31日从网易离职，转正答辩没通过，结束了第一份正式的实习工作，准备回校参加秋招。 由于8月在准备转正答辩，很多互联网公司的内推就错过了（后来也有人总结：真正的秋招是内推，很多公司内推招的差不多了，秋招很少招甚至不招了）。 离职后共投了3…]]></description><link>https://dwb1994.github.io//blog/autumn-interview/</link><guid isPermaLink="false">https://dwb1994.github.io//blog/autumn-interview/</guid><pubDate>Sat, 24 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;前言：&lt;/h2&gt;
+&lt;p&gt;式微式微胡不归？&lt;/p&gt;
+&lt;p&gt;思归思归梦几回？&lt;/p&gt;
+&lt;p&gt;山雾寒麓泪雨坠，&lt;/p&gt;
+&lt;p&gt;零落卷散岂可追？&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2016 秋招百度、搜狐、去哪儿、网易面经]]></title><description><![CDATA[前言： 2016年8月31日从网易离职，转正答辩没通过，结束了第一份正式的实习工作，准备回校参加秋招。 由于8月在准备转正答辩，很多互联网公司的内推就错过了（后来也有人总结：真正的秋招是内推，很多公司内推招的差不多了，秋招很少招甚至不招了）。 离职后共投了3…]]></description><link>https://dwb1994.github.io//blog/autumn-interview/</link><guid isPermaLink="false">https://dwb1994.github.io//blog/autumn-interview/</guid><pubDate>Sat, 24 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;前言：&lt;/h2&gt;
 &lt;p&gt;2016年8月31日从网易离职，转正答辩没通过，结束了第一份正式的实习工作，准备回校参加秋招。&lt;/p&gt;
 &lt;p&gt;由于8月在准备转正答辩，很多互联网公司的内推就错过了（后来也有人总结：真正的秋招是内推，很多公司内推招的差不多了，秋招很少招甚至不招了）。&lt;/p&gt;
 &lt;p&gt;离职后共投了30多家公司，基本上有名字的公司都投了一圈，后来感觉并不可取，心态有点浮躁，害怕没着落，就海投，导致每天都在投简历，没有时间准备笔试面试。想起春招的时候虽然身边招聘信息少，只投了BAT和网易，还有几家深圳的小公司，但是收到网易的面试通知后就集中精力准备网易面试，还是可以保证很好的面试状态的。&lt;/p&gt;
