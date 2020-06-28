@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 24 Jun 2020 08:37:18 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，前端工程师 🌈 连续…]]></description><link>https://dwb1994.github.io//about/</link><guid isPermaLink="false">https://dwb1994.github.io//about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 28 Jun 2020 04:17:38 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，前端工程师 🌈 连续…]]></description><link>https://dwb1994.github.io//about/</link><guid isPermaLink="false">https://dwb1994.github.io//about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
 &lt;p&gt;🐶 董文博，前端工程师&lt;/p&gt;
 &lt;p&gt;🌈 连续 4 年素描画、水粉画的学习经验，对产品、交互、视觉设计一直保有浓厚兴趣，在追求用户体验的道路上持续探索&lt;/p&gt;
 &lt;p&gt;📱 喜欢折腾各种电子产品，热爱互联网行业，很庆幸大学读了计科专业，现在有能力做些喜欢的事情&lt;/p&gt;
@@ -9,8 +9,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/people/dwbbb/activities&quot;&gt;知乎&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/dwb1994&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[浅谈 React 服务端渲染与同构]]></title><description><![CDATA[一、什么是服务端渲染： 服务端渲染（SSR）区别于客户端渲染（CSR），当用户访问一个网址的时候，客户端渲染则是服务端返回一部分 HTML 结构，通过执行 JavaScript 将余下的 HTML 渲染到页面上，而服务端渲染则是在服务端生成完整的 HTML…]]></description><link>https://dwb1994.github.io//blog/react-ssr/</link><guid isPermaLink="false">https://dwb1994.github.io//blog/react-ssr/</guid><pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、什么是服务端渲染：&lt;/h2&gt;
-&lt;p&gt;服务端渲染（SSR）区别于客户端渲染（CSR），当用户访问一个网址的时候，客户端渲染则是服务端返回一部分 HTML 结构，通过执行 JavaScript 将余下的 HTML 渲染到页面上，而服务端渲染则是在服务端生成完整的 HTML 结构返回给浏览器。
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[浅谈 React 服务端渲染与同构]]></title><description><![CDATA[一、什么是服务端渲染： 服务端渲染（SSR）区别于客户端渲染（CSR），当用户访问一个网址的时候，客户端渲染是服务端返回一部分 HTML 结构，通过执行 JavaScript 将余下的 HTML 渲染到页面上，而服务端渲染则是在服务端生成完整的 HTML…]]></description><link>https://dwb1994.github.io//blog/react-ssr/</link><guid isPermaLink="false">https://dwb1994.github.io//blog/react-ssr/</guid><pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、什么是服务端渲染：&lt;/h2&gt;
+&lt;p&gt;服务端渲染（SSR）区别于客户端渲染（CSR），当用户访问一个网址的时候，客户端渲染是服务端返回一部分 HTML 结构，通过执行 JavaScript 将余下的 HTML 渲染到页面上，而服务端渲染则是在服务端生成完整的 HTML 结构返回给浏览器。
 以 React 为例：在客户端渲染时一般 html 的 body 中只有一个 id 为 root 的标签，页面在浏览器上渲染出来后，通过执行 JavaScript 将页面内容插入到这个标签中。而服务端渲染则在服务器端将页面内容插入到这个标签中，返回给浏览器的时候就已经有完整的页面结构了。&lt;/p&gt;
 &lt;p&gt;由此我们可以看到服务端渲染具有如下优势：&lt;/p&gt;
 &lt;ol&gt;
