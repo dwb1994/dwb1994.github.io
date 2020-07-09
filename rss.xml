@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 07 Jul 2020 08:19:46 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，前端工程师 🌈 连续…]]></description><link>https://dwb1994.github.io//about/</link><guid isPermaLink="false">https://dwb1994.github.io//about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 09 Jul 2020 07:26:29 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，前端工程师 🌈 连续…]]></description><link>https://dwb1994.github.io//about/</link><guid isPermaLink="false">https://dwb1994.github.io//about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
 &lt;p&gt;🐶 董文博，前端工程师&lt;/p&gt;
 &lt;p&gt;🌈 连续 4 年素描画、水粉画的学习经验，对产品、交互、视觉设计一直保有浓厚兴趣，在追求用户体验的道路上持续探索&lt;/p&gt;
 &lt;p&gt;📱 喜欢折腾各种电子产品，热爱互联网行业，很庆幸大学读了计科专业，现在有能力做些喜欢的事情&lt;/p&gt;
@@ -296,7 +296,7 @@ import { Redirect } from ‘react-router-dom’;
             component&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; NotFound&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
         &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
     &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[你不知道的 JavaScript (上)]]></title><description><![CDATA[读书笔记 - 未完待续]]></description><link>https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-1/</link><guid isPermaLink="false">https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-1/</guid><pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;读书笔记 - 未完待续&lt;/p&gt;</content:encoded></item><item><title><![CDATA[你不知道的 JavaScript (中)]]></title><description><![CDATA[读书笔记 - 未完待续]]></description><link>https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-2/</link><guid isPermaLink="false">https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-2/</guid><pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;读书笔记 - 未完待续&lt;/p&gt;</content:encoded></item><item><title><![CDATA[JavaScript 中的作用域]]></title><description><![CDATA[一、定义： 作用域（scope）是一套规则，用于确定“如何查找变量”以及“在何处查找变量”。 以“var a =…]]></description><link>https://dwb1994.github.io//blog/scope/</link><guid isPermaLink="false">https://dwb1994.github.io//blog/scope/</guid><pubDate>Mon, 20 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、定义：&lt;/h3&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[你不知道的 JavaScript (中)]]></title><description><![CDATA[读书笔记 - 未完待续]]></description><link>https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-2/</link><guid isPermaLink="false">https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-2/</guid><pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;读书笔记 - 未完待续&lt;/p&gt;</content:encoded></item><item><title><![CDATA[你不知道的 JavaScript (上)]]></title><description><![CDATA[读书笔记 - 未完待续]]></description><link>https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-1/</link><guid isPermaLink="false">https://dwb1994.github.io//reading/2019-07-25-js-you-dont-know-1/</guid><pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;读书笔记 - 未完待续&lt;/p&gt;</content:encoded></item><item><title><![CDATA[JavaScript 中的作用域]]></title><description><![CDATA[一、定义： 作用域（scope）是一套规则，用于确定“如何查找变量”以及“在何处查找变量”。 以“var a =…]]></description><link>https://dwb1994.github.io//blog/scope/</link><guid isPermaLink="false">https://dwb1994.github.io//blog/scope/</guid><pubDate>Mon, 20 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、定义：&lt;/h3&gt;
 &lt;p&gt;作用域（scope）是一套规则，用于确定“如何查找变量”以及“在何处查找变量”。&lt;/p&gt;
 &lt;p&gt;以“var a = 2”为例，变量的赋值操作会执行两个动作：&lt;/p&gt;
 &lt;ol&gt;
@@ -1660,40 +1660,55 @@ Close #321&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;这里我为了实现一个需求，企图通过用一个input输入框记录一个组件的值，通过这个输入框的onchange事件将change之后的值传给另一个组件，实现组件间的交流。实际上这样不可行，抛开写法混乱、违背了react数据单向流动的初衷不谈，本身是不可行的，&lt;strong&gt;onchange监听不到脚本引起的value值的改变&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;通过网上查阅资料及咨询同事，我将需要传值的两个组件包含在同一个父组件之中，将传的值以state的形式存储于顶级组件中，通过一个组件调用回调函数影响顶级组件的state，再通过props来影响另一个子组件的渲染。&lt;/p&gt;
 &lt;p&gt;也可以使用refs，设置子组件的ref值，通过父组件的refs访问到子组件的自定义方法(回调函数)从而执行子组件的方法。&lt;/p&gt;
-&lt;p&gt;除了上述的行为外，两个不属于同一父组件的组件应该也可能有通信的需求，在上面的文章里有涉及，感兴趣的同学可以看一看。由于项目中没遇到，我就不在这里总结了。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[手淘 flexible.js 分析]]></title><description><![CDATA[flexible是手淘移动端自适应的方案，github地址：
- https://github.com/amfe/lib-flexible 
-flexible.js源码：
- https://github.com/amfe/lib-flexible/blob/master/src…]]></description><link>https://dwb1994.github.io//blog/flexible/</link><guid isPermaLink="false">https://dwb1994.github.io//blog/flexible/</guid><pubDate>Wed, 05 Oct 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;flexible是手淘移动端自适应的方案，github地址：
-&lt;a href=&quot;https://github.com/amfe/lib-flexible&quot;&gt;https://github.com/amfe/lib-flexible&lt;/a&gt;
-flexible.js源码：
-&lt;a href=&quot;https://github.com/amfe/lib-flexible/blob/master/src/flexible.js&quot;&gt;https://github.com/amfe/lib-flexible/blob/master/src/flexible.js&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;除了上述的行为外，两个不属于同一父组件的组件应该也可能有通信的需求，在上面的文章里有涉及，感兴趣的同学可以看一看。由于项目中没遇到，我就不在这里总结了。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[手淘 flexible.js 分析]]></title><description><![CDATA[flexible是手淘移动端自适应的方案，github地址： https://github.com/amfe/lib-flexible flexible.js源码： https://github.com/amfe/lib-flexible/blob/master/src…]]></description><link>https://dwb1994.github.io//blog/flexible/</link><guid isPermaLink="false">https://dwb1994.github.io//blog/flexible/</guid><pubDate>Wed, 05 Oct 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;flexible是手淘移动端自适应的方案，github地址：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/amfe/lib-flexible&quot;&gt;https://github.com/amfe/lib-flexible&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;flexible.js源码：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/amfe/lib-flexible/blob/master/src/flexible.js&quot;&gt;https://github.com/amfe/lib-flexible/blob/master/src/flexible.js&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;在网易实习的时候主要开发的项目是网易有钱h5项目，一直在用flexible做移动端自适应。在开发中我查看了flexible的源码，结合项目里遇到的一些坑，在这里总结一下这个框架的优缺点。&lt;/p&gt;
 &lt;h2&gt;一、源码结构&lt;/h2&gt;
-&lt;p&gt;1.meta名称为viewport的标签设置了scale时，将根据scale手动设置dpr(dpr用于实现flexible其他功能)。
-2.meta名称为flexible的标签存在时，手动设置dpr(本来没有这个标签，flexible源码添加了这个API并解析这个标签的属性，详见文档)。
-3.根据js获取到的devicePixelRatio设置dpr及scale，scale是dpr的倒数。(ios系统根据dpr的值设置为1、2、3，Android统一设置dpr为1)。
-4.添加meta标签，设置name为viewport，content根据scale设置缩放比(默认、最大、最小缩放比)。
-5.resize事件与pageshow事件延时300毫秒触发fontSize的重置(这里用了防抖函数，防止resize事件被高频触发可能引起的性能问题)
-6.为body设置fontSize，值为12*dpr+”px”
-7.扩展一些方法：获取页面dpr，获取rem基准值，rem与px相互转换，重置dpr，这些方法可以在引入flexible.js之后调用，使用方式参考api文档。&lt;/p&gt;
-&lt;p&gt;以上是源码整体的结构，实际上我们在使用的时候很多功能用不到，比如手动设置scale和dpr、flexible标签、扩展方法等等。因此在默认设置的时候，flexible核心的操作如下：
-1.为html添加data-dpr属性和style属性，style添加font-size作为1rem的基准值。
-2.改写meta标签，根据dpr设置设备的缩放比。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;meta名称为viewport的标签设置了scale时，将根据scale手动设置dpr(dpr用于实现flexible其他功能)。&lt;/li&gt;
+&lt;li&gt;meta名称为flexible的标签存在时，手动设置dpr(本来没有这个标签，flexible源码添加了这个API并解析这个标签的属性，详见文档)。&lt;/li&gt;
+&lt;li&gt;根据js获取到的devicePixelRatio设置dpr及scale，scale是dpr的倒数。(ios系统根据dpr的值设置为1、2、3，Android统一设置dpr为1)。&lt;/li&gt;
+&lt;li&gt;添加meta标签，设置name为viewport，content根据scale设置缩放比(默认、最大、最小缩放比)。&lt;/li&gt;
+&lt;li&gt;resize事件与pageshow事件延时300毫秒触发fontSize的重置(这里用了防抖函数，防止resize事件被高频触发可能引起的性能问题)&lt;/li&gt;
+&lt;li&gt;为body设置fontSize，值为12*dpr+”px”&lt;/li&gt;
+&lt;li&gt;扩展一些方法：获取页面dpr，获取rem基准值，rem与px相互转换，重置dpr，这些方法可以在引入flexible.js之后调用，使用方式参考api文档。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;以上是源码整体的结构，实际上我们在使用的时候很多功能用不到，比如手动设置scale和dpr、flexible标签、扩展方法等等。因此在默认设置的时候，flexible核心的操作如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;为html添加data-dpr属性和style属性，style添加font-size作为1rem的基准值。&lt;/li&gt;
+&lt;li&gt;改写meta标签，根据dpr设置设备的缩放比。&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2&gt;二、flexible优点&lt;/h2&gt;
-&lt;p&gt;1.可以适配众多不同终端的设备。
-2.使用简便，只需引入flexible.js即可。
-3.由手淘团队维护，相对稳定。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;可以适配众多不同终端的设备。&lt;/li&gt;
+&lt;li&gt;使用简便，只需引入 flexible.js 即可。&lt;/li&gt;
+&lt;li&gt;由手淘团队维护，相对稳定。&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2&gt;三、flexible缺点&lt;/h2&gt;
-&lt;p&gt;1.不是纯css的移动适配方案，需要引入js文件。
-2.高宽比变化引起呈现变化，一般公司里的UI设计稿是以iphone6的屏幕为画布，高宽比为16:9，flexible的rem长度本质上是基于设备宽度的百分比长度，因此在设备高宽比非16:9的时候将会不再是设计稿希望呈现的布局比例。(较常见的非16:9高宽比的场景有ipad的4:3、魅族16:10、手机横屏显示，如果需要在PC上访问高宽比更是多样化)
+&lt;ol&gt;
+&lt;li&gt;不是纯css的移动适配方案，需要引入js文件。&lt;/li&gt;
+&lt;li&gt;高宽比变化引起呈现变化，一般公司里的UI设计稿是以iphone6的屏幕为画布，高宽比为16:9，flexible的rem长度本质上是基于设备宽度的百分比长度，因此在设备高宽比非16:9的时候将会不再是设计稿希望呈现的布局比例。(较常见的非16:9高宽比的场景有ipad的4:3、魅族16:10、手机横屏显示，如果需要在PC上访问高宽比更是多样化)
 比如一个新闻列表，竖屏的时候可以一页显示六条新闻，ipad上只能显示四五条新闻，竖屏可能只能显示两三条。
-一般限制主体内容区域的最大宽度，使之在屏幕高宽比变小的时候不至于字号、图片过大影响用户体验。&lt;/p&gt;
+一般限制主体内容区域的最大宽度，使之在屏幕高宽比变小的时候不至于字号、图片过大影响用户体验。&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;&lt;img src=&quot;/img/others/you163.png&quot; alt=&quot;you163&quot;&gt;&lt;/p&gt;
-&lt;p&gt;3.吃像素问题，浏览器的渲染，最小的单位就是像素，不可能一个像素出现多种颜色。而通过rem计算后的距离值经常出现小数，浏览器会对这部分小数进行四舍五入，从而按照整数渲染颜色。有可能会导致元素边缘被“吃掉”一部分。&lt;/p&gt;
-&lt;p&gt;四舍五入吃像素的细节参见：rem产生的小数像素问题。&lt;/p&gt;
-&lt;p&gt;4.兼容性问题，安卓4.3及2以下版本系统不支持viewport缩放。&lt;/p&gt;
-&lt;p&gt;5.webview限制，webview作为原生开发的一个组件，移动客户端可以限制这个组件的大小。在webview大小被限制的时候，使用flexible使得比例难以计算。&lt;/p&gt;
-&lt;p&gt;6.不支持响应式设计方案，响应式设计需要用到css3媒体查询，根据查询到的设备宽度使用不同的css样式。而引入flexible的页面会根据dpr进行缩放，css3媒体查询得到的是缩放前的宽度而不是缩放后的宽度。&lt;/p&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;
+&lt;p&gt;吃像素问题，浏览器的渲染，最小的单位就是像素，不可能一个像素出现多种颜色。而通过rem计算后的距离值经常出现小数，浏览器会对这部分小数进行四舍五入，从而按照整数渲染颜色。有可能会导致元素边缘被“吃掉”一部分。&lt;/p&gt;
+&lt;p&gt;四舍五入吃像素的细节参见：&lt;a href=&quot;https://juejin.im/post/5d60fe52e51d4561a705bb20&quot;&gt;rem产生的小数像素问题&lt;/a&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;兼容性问题，安卓4.3及2以下版本系统不支持viewport缩放。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;webview限制，webview作为原生开发的一个组件，移动客户端可以限制这个组件的大小。在webview大小被限制的时候，使用flexible使得比例难以计算。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不支持响应式设计方案，响应式设计需要用到css3媒体查询，根据查询到的设备宽度使用不同的css样式。而引入flexible的页面会根据dpr进行缩放，css3媒体查询得到的是缩放前的宽度而不是缩放后的宽度。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2&gt;四、后记&lt;/h2&gt;
 &lt;p&gt;在去哪儿网第二轮面试时遇到了杜瑶大神，在面试中交流了很多移动适配和响应式设计的细节。&lt;/p&gt;
 &lt;p&gt;去哪儿网内部使用Yo作为移动UI框架，是纯css方案，且支持响应式。在入职前要求自学这个框架，后面我会仔细研究，另发日志记录这个方案。&lt;/p&gt;
