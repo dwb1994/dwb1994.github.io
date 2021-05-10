@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 15 Sep 2020 07:48:34 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，快手 · 前端工程师 🌈 连续…]]></description><link>https://dwb1994.github.io/about/</link><guid isPermaLink="false">https://dwb1994.github.io/about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 10 May 2021 03:21:18 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，快手 · 前端工程师 👀  🌈 连续…]]></description><link>https://dwb1994.github.io/about/</link><guid isPermaLink="false">https://dwb1994.github.io/about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
 &lt;p&gt;🐶 董文博，快手 · 前端工程师&lt;/p&gt;
+&lt;p&gt;👀 &lt;/p&gt;
 &lt;p&gt;🌈 连续 4 年素描画、水粉画的学习经验，对产品、交互、视觉设计一直保有浓厚兴趣，在追求用户体验的道路上持续探索&lt;/p&gt;
 &lt;p&gt;📱 喜欢折腾各种电子产品，热爱互联网行业，很庆幸大学读了计科专业，现在有能力做些喜欢的事情&lt;/p&gt;
 &lt;p&gt;💡 脑回路清奇，不喜欢枯燥乏味的事情&lt;/p&gt;
@@ -695,7 +696,7 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
 &lt;p&gt;字体大小的分界线：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;普通文本: 小于 18 磅的常规字体或 14 磅的加粗字体&lt;/li&gt;
-&lt;li&gt;大型文本: 于 18 磅的常规字体或 14 磅的加粗字体&lt;/li&gt;
+&lt;li&gt;大型文本: 大于 18 磅的常规字体或 14 磅的加粗字体&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;那么如何实现符合 WCAG 规范的对比度呢？如何在项目中渐变快捷地进行调整呢？&lt;/p&gt;
 &lt;h2&gt;使用工具调整对比度&lt;/h2&gt;
