@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 10 May 2021 03:21:18 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，快手 · 前端工程师 👀  🌈 连续…]]></description><link>https://dwb1994.github.io/about/</link><guid isPermaLink="false">https://dwb1994.github.io/about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 09 Jan 2022 02:15:37 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，快手 · 前端工程师 👀  🌈 连续…]]></description><link>https://dwb1994.github.io/about/</link><guid isPermaLink="false">https://dwb1994.github.io/about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
 &lt;p&gt;🐶 董文博，快手 · 前端工程师&lt;/p&gt;
 &lt;p&gt;👀 &lt;/p&gt;
 &lt;p&gt;🌈 连续 4 年素描画、水粉画的学习经验，对产品、交互、视觉设计一直保有浓厚兴趣，在追求用户体验的道路上持续探索&lt;/p&gt;
@@ -10,7 +10,528 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/people/dwbbb/activities&quot;&gt;知乎&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/dwb1994&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[MPortal Design]]></title><description><![CDATA[作品信息 制作日期: 2018 年 2月 ~…]]></description><link>https://dwb1994.github.io/design/2020-07-20-mportal-design/</link><guid isPermaLink="false">https://dwb1994.github.io/design/2020-07-20-mportal-design/</guid><pubDate>Thu, 06 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[北京买房日记]]></title><description><![CDATA[一、概况 2021 年圣诞节这天，我做了一个大胆的决定：签下了北京的新房 - 龙湖云璟，位置在昌平区，朱辛庄。 首付凑了 272w…]]></description><link>https://dwb1994.github.io/blog/house/</link><guid isPermaLink="false">https://dwb1994.github.io/blog/house/</guid><pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、概况&lt;/h2&gt;
+&lt;p&gt;2021 年圣诞节这天，我做了一个大胆的决定：签下了北京的新房 - 龙湖云璟，位置在昌平区，朱辛庄。&lt;/p&gt;
+&lt;p&gt;首付凑了 272w，掏空了两家两代人的钱包，透支了一些收入，也借了不少钱&lt;/p&gt;
+&lt;h2&gt;二、看房旅程&lt;/h2&gt;
+&lt;h4&gt;一句话总结：从新房到二手房，再到新房&lt;/h4&gt;
+&lt;p&gt;毕业这几年我一直有买房的想法，一直在等待购房资格，入职快手后，工作居住证的时间大概能确定，在 2021 年底拿到，因此提前半年时间我开始关注房子&lt;/p&gt;
+&lt;p&gt;2021 年 5 月 5 日，我俩逛万象汇的时候，看到海淀幸福里的展柜，比较感兴趣，销售带着我俩去不远处的样板间看了下，&lt;code class=&quot;language-text&quot;&gt;8万 * 98平，总价接近 800w&lt;/code&gt;，太贵了，算了下每个月要还款3万出头，月供也还不起。这算是我第一次看北京的新房&lt;/p&gt;
+&lt;p&gt;当天后来折返回万象汇逛了逛，贝壳上面联系了一位经纪人（杨凯），当天带我们去租房这边，西二旗附近看了几个二手房，初步了解了二手房的行情，对于我们的首付（预期首付250w左右）能买到的二手房是什么样子的，终于有了初步的概念：海淀老破小 / 昌平面积稍微大点的老房&lt;/p&gt;
+&lt;p&gt;由于新房要么太贵要么太远，没遇到合适的新房，很长时间没关注新房。&lt;/p&gt;
+&lt;p&gt;后来杨凯带我们看了几次二手房，龙泽、霍营、回龙观东大街、天通苑、望京、西坝河，这几个地方都看了：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;其中西坝河是同事买的位置，推荐给了我，&lt;code class=&quot;language-text&quot;&gt;西坝河中里 450w 67平&lt;/code&gt;，小区门口在建 12 / 17 号线，两条地铁换乘站，位置在东北三环，交通方便，在北京去哪都方便，总价也低，好上车，地铁开通后也能有一点升值。缺点是没学区，老破小塔楼。&lt;/li&gt;
+&lt;li&gt;龙泽附近融泽家园年初又涨了一波，已经很贵了，不好上车了。北京人家不错，&lt;code class=&quot;language-text&quot;&gt;450w 80平 顶层 赠送面积 38 平米&lt;/code&gt;，我们很喜欢这个带露台的顶层，面积真的大。杨凯很推荐北京人家，小区对面就是万科天空之城写字楼，滴滴已经入驻了，新龙泽地铁站建好之后这里交通特别方便，地铁附近也有商业规划。缺点是新地铁站开通要 2025 年，住进去近三四年基本等于没地铁，顶层没电梯，顶层也可能漏水，老小区的小问题也都有。&lt;/li&gt;
+&lt;li&gt;天通苑的房子便宜，&lt;code class=&quot;language-text&quot;&gt;天通苑东三区 110平 440w 中间楼层&lt;/code&gt;挺喜欢，这里是未来 13 号线和 17 号线的换乘站，感觉去西二旗和望京都挺方便得，没相中这边人多，比较杂乱，地铁不好上。&lt;/li&gt;
+&lt;li&gt;望京年初涨了一轮，太贵了，买不到合适的房子了&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其他几个地方，没看到合适的房子。在我心里，西坝河排第一位，北京人家排第二吧，后来北京人家也不看了，只看西坝河&lt;/p&gt;
+&lt;p&gt;9 月，回龙观这片出了两个新盘的消息，奥森春晓和北清云际，售楼处开放那天我去看了，售楼处人非常多，北清云际比北京人家离地铁站还要远一点，我没法接受离地铁远的房子。另外奥森春晓离地铁也并不算近，户型也不太行，还有连廊，所以这俩新房我当时都不喜欢，有一点动摇买二手房想法，仔细想了想，还是放弃了这俩新房。&lt;/p&gt;
+&lt;p&gt;10月中旬，奥森春晓和北清云际的样板间开放了，因为有时间，所以去看了下，产业化装修的样板间非常简单，户型感觉都不喜欢，看完样板间更不喜欢这俩盘了 😂&lt;/p&gt;
+&lt;h2&gt;三、与龙湖云璟相遇&lt;/h2&gt;
+&lt;p&gt;十一放假的时候，我在家躺着，北清云际有个销售给我打电话推销北清云际，加了他微信我也没说一句话，后来这老兄偶尔给我发一发北清云际房子信息，我没在意。&lt;/p&gt;
+&lt;p&gt;11 月初，北清云际这位老兄好像跳槽去了龙湖云璟，给我发了个微信 “朱辛庄新盘龙湖云璟 200 米到地铁”，我心想，朱辛庄？好远的地方 😢 pass&lt;/p&gt;
+&lt;p&gt;11 月 7 日，我俩去逛街，新中关购物中心，入口附近一个不起眼的位置，龙湖云璟摆了一个小展台，我去看了看，拿张传单。当时我心里已经十有八九确定要买二手房，对于这个朋友圈视线里出现了一两次的新房并没有在意，后来回家之后晚上开始纠结，在网上查了楼盘的信息，越看越觉得，好像挺 ok 得，离地铁确实很近，周边有一些产业规划，龙湖也是大开发商，价格不便宜，但综合来看，比奥森春晓和北清云际强不少。&lt;/p&gt;
+&lt;p&gt;想了一晚上，查了一晚上，第二天一早决定跟销售联系一下，验了资，跟销售交流了几次。从这开始了我一个多月的辗转反侧&lt;/p&gt;
+&lt;p&gt;龙湖云璟两个户型，当时宣传的是 88 / 110 两种户型，均价 5.75w，上限 6.33 w，掂量了一下手里的钱，买 88 的足够，买 110 的有点难，两个户型相比，110 的户型比 88 的好一些，和家里沟通了几次，决定踮脚买 110 的户型。&lt;/p&gt;
+&lt;p&gt;自从看龙湖云璟后，二手房就瞧不上了 😢，新房又没有更合适的，所以心里想，尽量买这里吧，对这个楼盘又爱又恨：爱是希望它真的好，恨是希望它热度别太高，热度太高的话如果摇号很可能就买不到了。&lt;/p&gt;
+&lt;p&gt;12 月初，工作居住证拿到手了，12 月中旬，样板间也开放了，随之而来的是，验资人数不断创新高，达到 600+ 了，一共 432 套，我开始不停的焦虑、焦虑、焦虑…&lt;/p&gt;
+&lt;p&gt;买房消耗了我太多精力，选地段，选小区，看信息，真不想消耗更多精力。这次看龙湖云璟新房花费了我尤其多的精力，跟着销售看了一房一价，准备并确定了选房方案，真希望能选得上，别忙了两个月最后空手而去。&lt;/p&gt;
+&lt;p&gt;12 月底开盘，销售说 12 月底开盘，偏偏邻近开盘，利好因素不断出来：万达广场开建，规模不小；北侧朱辛庄新区二期地块，据说有大厂入驻；地铁 8 号线即将南北贯通；昌平线南延马上开通一站；北京 2035 轨道交通规划出炉，北部联络线确定，朱辛庄又要多一条地铁；随着这些虚虚实实的 “利好”，验资人数又不断增长，到达 900+&lt;/p&gt;
+&lt;p&gt;又传出了互联网寒冬，公司部门裁员的消息，加上开盘可能选不到房的担心，又传出 2 号楼这次不开盘，开盘只有 378 套，900 多人来抢，又焦虑、焦虑、焦虑…&lt;/p&gt;
+&lt;h2&gt;四、成功选房&lt;/h2&gt;
+&lt;p&gt;2021 年圣诞节这天，北京冬天格外寒冷，好几天没睡好觉了，不吃药睡不着觉，做梦梦到选房，圣诞节这天选房，龙湖的营销做得真“好”，把我们购房者的心态拿捏住了，又是大屏幕摇号、又是排队冲刺选房，选房区叫喊声不断，选房区用围墙隔离开，大喇叭不断传出 “恭喜业主选房成功！”的喊声。&lt;/p&gt;
+&lt;p&gt;一共 1025 参与摇号的人，摇号每次摇出 20 人，看着大屏幕上一屏一屏过去，一直没有我的名字，心理被击垮了，觉得可能排到很后面，底线不断降低，心想能买到一套就行了吧，一二层不要，其他都能接受。&lt;/p&gt;
+&lt;p&gt;结果接近 200 多接近 300 号的时候终于摇到我了，特别开心，按照这个号码顺序，性价比高的、位置好的房子肯定选不到了，但是房子肯定还是能选到的。&lt;/p&gt;
+&lt;p&gt;进场选房，按照之前存下来的选房顺序，准备了 10 套方案，前 8 个方案都被别人选走了，第 9 套方案是性价比相对比较低的，选了 5 号楼，视野好的楼层，贵是真的贵了，但是视野挺好&lt;/p&gt;
+&lt;p&gt;一上午清盘了，虽然有清退的房子，但后补买清退的人也很多。看到这清盘的速度，我也放心了，买到了好楼盘。&lt;/p&gt;
+&lt;h2&gt;五、后记&lt;/h2&gt;
+&lt;p&gt;后面就是，借钱把首付凑齐，在此感谢借给我钱的朋友们 😂，办贷款在明年年底封顶的时候，还有时间准备，希望未来工作顺利，还得起&lt;/p&gt;
+&lt;p&gt;加了准业主群，群里 30 岁上下的年轻人居多，互联网行业的不少，沟通比较顺畅，期待 2024 年底交房吧 ~&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Docs 暗黑模式 Code Review & 分享]]></title><description><![CDATA[零、前言 10月份我进行了一次暗黑模式的 code review 11月份我进行了一场 Docs 暗黑模式的分享，在此我整理成一篇博客，记录一下 本次分享带来的是 Docs…]]></description><link>https://dwb1994.github.io/blog/docs-darkmode/</link><guid isPermaLink="false">https://dwb1994.github.io/blog/docs-darkmode/</guid><pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;零、前言&lt;/h2&gt;
+&lt;p&gt;10月份我进行了一次暗黑模式的 code review&lt;/p&gt;
+&lt;p&gt;11月份我进行了一场 Docs 暗黑模式的分享，在此我整理成一篇博客，记录一下&lt;/p&gt;
+&lt;p&gt;本次分享带来的是 Docs 适配暗黑模式的来龙去脉、简要介绍开发方案、分享项目中踩过的坑、引起的思考，希望给大家带来帮助。此外工程上有一些改动，因此借此机会宣讲后续开发规范。&lt;/p&gt;
+&lt;h2&gt;一、项目背景&lt;/h2&gt;
+&lt;p&gt;随着 iOS 13 和 Android 10 正式发布，暗黑（深色）模式逐渐进入大家视野，各大 APP 纷纷进行适配。MacOS 为用户提供了“浅色”、“深色”两种模式进行切换，暗黑对于程序员来说很容易接受，常见的 IDE 默认主题一般都是深色背景。
+暗黑模式的好处：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;省电&lt;/li&gt;
+&lt;li&gt;色盲色弱友好&lt;/li&gt;
+&lt;li&gt;弱光环境使用友好&lt;/li&gt;
+&lt;li&gt;长时间专注用眼，减少视觉疲劳&lt;/li&gt;
+&lt;li&gt;提升品质感与沉浸感&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;效果预览：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/darkmode/yulan.png&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;二、开发过程&lt;/h2&gt;
+&lt;h3&gt;1、沟通并确定排期&lt;/h3&gt;
+&lt;p&gt;回顾项目开发的过程：&lt;/p&gt;
+&lt;p&gt;由于需求排期较长，在项目初期进行了细化的排期&lt;/p&gt;
+&lt;pre&gt;
+9.29-10.12 色值排查与替换（使用脚本），整理用到的组件（包括 不规范的色值、单色/多色 icon、图片 ）
+10.13-10.18 组件样式改造（基于 antd 本地化分支）
+10.19-10.25 icon、图片整理与替换（可能延期2天）
+走查与测试：
+10.13，设计师开始色值走查
+10.25，设计师开始全局走查
+11.01，设计师走查延后两周
+11.8-11.17 共计8PD，前端 0.5 * 1 人力支持，设计走查 0.2 * 3 人力
+11.17-11.19 测试介入
+11.24 全量上线代码
+
+关键文档：组件梳理文档，分模块梳理各个页面用到的 单色 icon、多色 icon 和图片，三个部分
+&lt;/pre&gt;
+&lt;h3&gt;2、进行工程改造&lt;/h3&gt;
+&lt;h4&gt;1. 色值切换原理&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;使用了 css variable 修改主题色&lt;/strong&gt;，经调研符合目前系统的兼容性要求&lt;/p&gt;
+&lt;p&gt;初始化时，在 js 逻辑中根据 isKim &amp;#x26; 媒体查询，给 html 标签添加 className: .kim-dark-mode&lt;/p&gt;
+&lt;p&gt;监听 media 的 change 事件，回调时修改 html 标签的 className&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;less&quot;&gt;&lt;pre class=&quot;language-less&quot;&gt;&lt;code class=&quot;language-less&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// config/public/css-variables.ejs&lt;/span&gt;
+&lt;span class=&quot;token selector&quot;&gt;:root&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;--Gray01&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #ffffff&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token selector&quot;&gt;:root.kim-dark-mode&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;--Gray01&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #17181A&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;// packages/ui/style/colors.less&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@Gray01&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;var&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;Gray01&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;// packages/ui/style/utils.less&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// 媒体查询 暗黑模式特殊判断逻辑&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// 传入代码片段, IMP: 注意外层不能嵌套选择器&lt;/span&gt;
+&lt;span class=&quot;token selector&quot;&gt;.darkRules(&lt;span class=&quot;token variable&quot;&gt;@rules&lt;/span&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token selector&quot;&gt;html.kim-dark-mode&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;@rules&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;没有使用 less 的 modifyVars 方法，modifyVars 方法基于 less 在浏览器中的编译，工程改造成本较高&lt;/p&gt;
+&lt;h3&gt;2. 构建色值变量&lt;/h3&gt;
+&lt;p&gt;使用 css variables 的形式定义变量&lt;/p&gt;
+&lt;p&gt;基于 colors-src.ts 文件构建出三个文件（npm run buildColor）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;/config/public/css-variables.ejs —— css variables&lt;/li&gt;
+&lt;li&gt;/packages/ui/style/colors.less —— less variables&lt;/li&gt;
+&lt;li&gt;/packages/ui/style/colors.ts —— ts variables&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;ts 使用方法如下（不推荐，可能存在副作用）：&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;// packages/ui/style/colors.ts 源文件
+import themes from &amp;#39;./color-src&amp;#39;;
+import { isKimDark } from &amp;#39;@is-docs-packages/components/common-utils/dark&amp;#39;;
+const mode = isKimDark ? &amp;#39;dark&amp;#39; : &amp;#39;light&amp;#39;;
+const themeColors = themes[mode];
+
+export const Gray01 = themeColors.Gray01;
+
+// xxx.tsx 使用侧
+import { colors } from &amp;#39;@is-docs-packages/ui/style/colors&amp;#39;;
+colors.Gray01&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;3. 组件改造：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;基于上述色值切换原理，使用色值收敛脚本替换颜色，自动实现 &lt;strong&gt;业务组件&lt;/strong&gt; 暗黑模式切换&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原理：编写 node 脚本，遍历项目各个目录中的文件，使用正则进行字符串替换&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;css变量中，十六进制色值修改为 @Gray01 的形式；rgba 修改为 rgba(var(—Gray01RGB), 0.2); 的形式。目前 docs 项目都迁移成了变量与 fade 形式 (除知识库)，改色值比较容易&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于 ant design 本地化，修改变量文件，实现 &lt;strong&gt;ant design 组件&lt;/strong&gt; 的暗黑模式切换&lt;/p&gt;
+&lt;img src=&quot;/img/darkmode/1.png&quot; width=&quot;80%&quot; /&gt;
+&lt;p&gt;ant design 的色值未支持暗黑模式，为了实现暗黑模式，需要将 ant design 的色值变量&lt;strong&gt;全部&lt;/strong&gt;替换为支持切换暗黑模式的色值&lt;/p&gt;
+&lt;p&gt;Docs 项目使用了很多 ant design 的组件（首页居多），以前使用样式覆盖，修改不方便。本地化后的目录是组件库项目的 【packages/ui/docs-antd】目录，&lt;strong&gt;以后修改 ant design 组件的基础样式都在这个目录下修改&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本地化后，适配暗黑模式更方便&lt;/p&gt;
+&lt;p&gt;ant design 色彩系统使用了函数计算，根据某一个基准色值生成一条渐变色板，优势是 &lt;strong&gt;样式变量高度收敛&lt;/strong&gt;，劣势是 &lt;strong&gt;定制性比较差&lt;/strong&gt;，不够灵活，3.x后色板算法没再更新，计算得出的某些色值 &lt;strong&gt;无法达到足够适合阅读的对比度&lt;/strong&gt; 。关于 &lt;a href=&quot;http://dwbbb.com/blog/ant-design-palettes/&quot;&gt;ant design 色板生成算法&lt;/a&gt; 的原理、现存问题，有兴趣的同学可以看我的博客&lt;/p&gt;
+&lt;p&gt;我们 Docs 项目有比较强的定制性需求，因此色板使用的是设计师定义的色值，但需要设计师维护所有色值，更新色值相对麻烦一些&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/darkmode/2.png&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;less&quot;&gt;&lt;pre class=&quot;language-less&quot;&gt;&lt;code class=&quot;language-less&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;@primary-1&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;~`&lt;span class=&quot;token function&quot;&gt;colorPalette&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;@{primary-color}&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 1&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; `&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// replace tint(@primary-color, 90%)&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-2&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;~`&lt;span class=&quot;token function&quot;&gt;colorPalette&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;@{primary-color}&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 2&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; `&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// replace tint(@primary-color, 80%)&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-3&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;~`&lt;span class=&quot;token function&quot;&gt;colorPalette&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;@{primary-color}&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 3&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; `&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// unused&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-4&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;~`&lt;span class=&quot;token function&quot;&gt;colorPalette&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;@{primary-color}&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 4&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; `&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// unused&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-5&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;~`&lt;span class=&quot;token function&quot;&gt;colorPalette&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;@{primary-color}&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 5&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; `&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-6&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;@primary-color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; 
+&lt;span class=&quot;token variable&quot;&gt;@primary-7&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;~`&lt;span class=&quot;token function&quot;&gt;colorPalette&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;@{primary-color}&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 7&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; `&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// replace shade(@primary-color, 5%)&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-8&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;~`&lt;span class=&quot;token function&quot;&gt;colorPalette&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;@{primary-color}&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 8&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; `&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// unused&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-9&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;~`&lt;span class=&quot;token function&quot;&gt;colorPalette&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;@{primary-color}&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 9&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; `&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// unused&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-10&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;~`&lt;span class=&quot;token function&quot;&gt;colorPalette&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;@{primary-color}&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 10&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; `&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// unused&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// 转换成&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-1&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;@Blue09&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-2&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;@Blue08&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-3&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;@Blue07&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-4&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;@Blue06&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-5&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;@Blue05&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-7&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;@Blue04&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-8&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;@Blue03&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-9&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;@Blue02&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;@primary-10&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;@Blue01&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;转换过程使用了 &lt;a href=&quot;https://github.com/bgrins/TinyColor&quot;&gt;tinyColor&lt;/a&gt; 第三方库的 readability 函数，该函数返回两种颜色之间的对比度，需要先确定该色值所属的色板，相对来说更加准确，我的策略是&lt;strong&gt;先替换再走查&lt;/strong&gt;&lt;/p&gt;
+&lt;img src=&quot;/img/darkmode/3.png&quot; width=&quot;80%&quot; /&gt;
+&lt;p&gt;另一种方式：&lt;/p&gt;
+&lt;p&gt;之前第一版收敛色值时策略是&lt;strong&gt;先走查再替换&lt;/strong&gt;：使用的是 &lt;strong&gt;&lt;a href=&quot;https://gka.github.io/chroma.js/#chroma-deltae&quot;&gt;deltaE&lt;/a&gt;&lt;/strong&gt; 来计算颜色的相似性，梳理了各工程用到的色值，和设计师给出的色板进行了对应，梳理页面如下：&lt;/p&gt;
+&lt;img src=&quot;/img/darkmode/4.png&quot; width=&quot;80%&quot; /&gt;
+&lt;p&gt;设计师对梳理的结果进行微调，确定最终替换脚本的规则，附：&lt;/p&gt;
+&lt;p&gt;在 js 中计算 deltaE: &lt;a href=&quot;https://stackoverflow.com/questions/54738431/calculate-deltae94-in-javascript&quot;&gt;https://stackoverflow.com/questions/54738431/calculate-deltae94-in-javascript&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;第三方库 chroma 也有实现这个功能: &lt;a href=&quot;https://gka.github.io/chroma.js/#chroma-deltae&quot;&gt;https://gka.github.io/chroma.js/#chroma-deltae&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;4. 通过 context 实现 tsx 中树节点更新&lt;/h3&gt;
+&lt;p&gt;更新的一般包括图片、tsx 中的色值&lt;/p&gt;
+&lt;p&gt;组件库 &lt;code class=&quot;language-text&quot;&gt;is-docs-components/packages/components/component-ctx.tsx&lt;/code&gt; 文件提供了暗黑模式的 context 实例，包含 isDark: boolean; theme: 色值表 这两个变量，Docs 首页项目在 App.tsx 中使用该 context，并提供 Provider&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其他工程没有提供 Provider，则取到的 isDark 为 false，即不会影响未接入暗黑模式的工程&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;5. icon 适配&lt;/h3&gt;
+&lt;p&gt;原理：&lt;/p&gt;
+&lt;p&gt;iconfont.cn 项目中，暗黑模式的命名是在对应的浅色模式 icon 后面加 “_dark” &lt;strong&gt;后缀&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;执行脚本【npm run buildIcon（scripts/dark-icons-build.js）】从 iconfont 平台下载后，根据是否包含  &lt;strong&gt;“_dark”后缀&lt;/strong&gt; 打包成两个 iconfont.js 文件，初始化时根据 isKim &amp;#x26; media isDark 确定引入的是 font&lt;em&gt;xxx.js 或者 font&lt;/em&gt;xxx_dark.js &lt;/p&gt;
+&lt;p&gt;media onchange 时，&lt;strong&gt;删除 html 中对应的 svg 标签&lt;/strong&gt;，拼接新 script 标签并 &lt;strong&gt;append&lt;/strong&gt; 到 dom 中&lt;/p&gt;
+&lt;p&gt;Icon 的 key 值不变，但对应的 Symbols 中引用的 iconfont path 已经改变，从而实现切换 light/dark 模式的 icons&lt;/p&gt;
+&lt;p&gt;封装 &amp;#x3C;IconFont /&gt; 组件，color 属性通过 props 的形式传入色值的 key 值，传入错误的 key 值在开发环境会报 warning&lt;/p&gt;
+&lt;p&gt;推荐通过 className &amp;#x26; less 写色值，而不是通过 color props 传入&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;jsx&quot;&gt;&lt;pre class=&quot;language-jsx&quot;&gt;&lt;code class=&quot;language-jsx&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;BasicActiveRectIcon&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token attr-name&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;k-docs-icon-cebianshouqi&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token attr-name&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;token script language-javascript&quot;&gt;&lt;span class=&quot;token script-punctuation punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; flexShrink&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token attr-name&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;red&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;IconFont&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token attr-name&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;token script language-javascript&quot;&gt;&lt;span class=&quot;token script-punctuation punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; fontSize&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;16px&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; color&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colors&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray09 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token attr-name&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;Gray09&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;6. 图片&lt;/h3&gt;
+&lt;p&gt;通用图片收敛到组件库的 packages/components/assets/dark[light] 目录&lt;/p&gt;
+&lt;p&gt;两个目录: 根目录 &amp;#x26; dark&lt;/p&gt;
+&lt;img src=&quot;/img/darkmode/5.png&quot; width=&quot;80%&quot; /&gt;
+&lt;p&gt;根据 context 中的 isDark flag，使用相同/不同图片&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;jsx&quot;&gt;&lt;pre class=&quot;language-jsx&quot;&gt;&lt;code class=&quot;language-jsx&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; nullImg &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;@src/assets/light/null.png&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; nullImgDark &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;@src/assets/dark/null.png&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; useThemeContext &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;@is-docs-packages/hooks/useThemeContext&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;isDark&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;useThemeContext&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;Empty&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;token script language-javascript&quot;&gt;&lt;span class=&quot;token script-punctuation punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;isDark &lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt; nullImgDark &lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; nullImg&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;7. 测试与上线&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;测试与走查方案：&lt;/p&gt;
+&lt;p&gt;  a. docs 测试环境配置灰度，由于 Kima 包尚未准备好，docs 首页走查时前期是在 web 端走查，注释了 isKim 判断是否在 kim 内的逻辑&lt;/p&gt;
+&lt;p&gt;  b. 测试打出暗黑模式专用的 Kima 包，docs 标签页使用的是 docs 测试环境&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;灰度方案&lt;/p&gt;
+&lt;p&gt;  a.	Kim 端计划在12月发布灰度版本，灰度范围逐步扩大，Docs 与 Kim 保持灰度范围一致&lt;/p&gt;
+&lt;p&gt;  b.	新增的需求使用色值变量，自动实现暗黑模式，需求测试/走查时应注意回归暗黑模式样式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上线方案&lt;/p&gt;
+&lt;p&gt;  a.	11.25 全量上线暗黑模式代码，目的是代码 &lt;strong&gt;尽早&lt;/strong&gt; 合入master，增量的业务尽早适配暗黑模式的写法，否则新需求代码合进来都需要为适配暗黑模式做转换&lt;/p&gt;
+&lt;p&gt;  b.	上线之后通过 &lt;strong&gt;分享&lt;/strong&gt; 的形式对齐工程与规范的变动&lt;/p&gt;
+&lt;p&gt;  c.	上线后灰度范围 &lt;strong&gt;与 Kim 保持一致&lt;/strong&gt;，直到 kim 全量上线&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;三、编码规范&lt;/h2&gt;
+&lt;p&gt;内部文档：GUI 一致性 2.0，不便对外展示，列举出目录，大体能看到包含的内容：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;规范说明&lt;/li&gt;
+&lt;li&gt;目录结构&lt;/li&gt;
+&lt;li&gt;less 样式编写&lt;br /&gt;
+a. less 文件中变量的使用方式不变&lt;br /&gt;
+b. 后续需求需替换 fade 写法，否则构建时报错&lt;br /&gt;
+c. 使用色值变量文件 (colors.less) 中的色值&lt;br /&gt;
+d. 使用场景色&lt;br /&gt;
+e. 摹客平台新增规范&lt;br /&gt;
+f. 使用 vscode 插件&lt;br /&gt;
+g. 暗黑模式特殊判断&lt;br /&gt;
+h. 其他样式规范&lt;/li&gt;
+&lt;li&gt;色板更新与使用&lt;/li&gt;
+&lt;li&gt;iconfont 更新与使用&lt;/li&gt;
+&lt;li&gt;图片使用&lt;/li&gt;
+&lt;li&gt;修改组件库样式&lt;br /&gt;
+a. 修改 ant design 组件的默认样式&lt;br /&gt;
+b. 历史遗留：修改自定义 ant design 组件样式&lt;br /&gt;
+c. 组件库的正确使用姿势：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;场景色如下：&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;PrimaryColor&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Blue03&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 主色 (@Blue03)&lt;/span&gt;
+CardBg&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray01&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 卡片背景色&lt;/span&gt;
+CardNestedBg&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray02&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 卡片内嵌套区域背景色&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// 主按钮 - primary&lt;/span&gt;
+ButtonPrimaryBg&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Blue03&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 主按钮背景色&lt;/span&gt;
+ButtonPrimaryText&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray01&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 主按钮文本色&lt;/span&gt;
+ButtonPrimaryBgHover&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Blue04&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 背景色 - hover&lt;/span&gt;
+ButtonPrimaryTextHover&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray01&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 文本色 - hover&lt;/span&gt;
+ButtonPrimaryBgActive&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Blue02&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 背景色 - active&lt;/span&gt;
+ButtonPrimaryTextActive&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray01&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 文本色 - active&lt;/span&gt;
+ButtonPrimaryBgDisabled&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Blue05&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 背景色 - disabled&lt;/span&gt;
+ButtonPrimaryTextDisabled&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray01&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 文本色 - disabled&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// 次级按钮 - secondary&lt;/span&gt;
+ButtonSecondaryBg&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray01&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 次级按钮背景色&lt;/span&gt;
+ButtonSecondaryText&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray11&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 次级按钮文本色&lt;/span&gt;
+ButtonSecondaryBgHover&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray02&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 背景色 - hover&lt;/span&gt;
+ButtonSecondaryTextHover&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray11&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 文本色 - hover&lt;/span&gt;
+ButtonSecondaryBgActive&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray03&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 背景色 - active&lt;/span&gt;
+ButtonSecondaryTextActive&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray11&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 文本色 - active&lt;/span&gt;
+ButtonSecondaryBgDisabled&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray03&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 背景色 - disabled&lt;/span&gt;
+ButtonSecondaryTextDisabled&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray09&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 文本色 - disabled&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// 幽灵按钮 - ghost&lt;/span&gt;
+ButtonGhostBg&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray01&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 幽灵按钮背景色&lt;/span&gt;
+ButtonGhostText&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Blue03&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 幽灵按钮文本色&lt;/span&gt;
+ButtonGhostBgHover&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Blue09&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 背景色 - hover&lt;/span&gt;
+ButtonGhostTextHover&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Blue03&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 文本色 - hover&lt;/span&gt;
+ButtonGhostBgActive&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Blue08&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 背景色 - active&lt;/span&gt;
+ButtonGhostTextActive&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Blue03&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 文本色 - active&lt;/span&gt;
+ButtonGhostBgDisabled&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray03&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 背景色 - disabled&lt;/span&gt;
+ButtonGhostTextDisabled&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray09&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 文本色 - disabled&lt;/span&gt;
+
+ContainerBorder&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rgbaString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray11&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.12&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 容器 border&lt;/span&gt;
+DividerColor&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rgbaString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray11&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.08&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 全局分割线&lt;/span&gt;
+SelectColor&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rgbaString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;GrayBlue01&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.08&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// item select&lt;/span&gt;
+HoverColor&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rgbaString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;GrayBlue01&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.05&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// item hover&lt;/span&gt;
+ModalMaskBg&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rgbaString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray14&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.45&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// modal 半透明遮罩&lt;/span&gt;
+CardBoxShadow&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rgbaString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray11&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0.04&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 卡片阴影&lt;/span&gt;
+TooltipBg&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray11&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// tooltip 背景色&lt;/span&gt;
+TooltipText&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; colorBase&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;light&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Gray01 &lt;span class=&quot;token comment&quot;&gt;// tooltip 文本色&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;四、思考&lt;/h2&gt;
+&lt;h3&gt;1、排期困境&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;中间插入需求&lt;br /&gt;
+a. toast 样式改版——中间插入消化&lt;br /&gt;
+b. 线上样式问题—— 样式迭代，量大，本期不改&lt;/li&gt;
+&lt;li&gt;设计师要求增加排期（toast）&lt;br /&gt;
+a. 使用甘特图梳理排期；&lt;br /&gt;
+b. 拆解大任务为小任务，每个任务定具体的交付时间节点，到节点时或邻近节点时确认；&lt;br /&gt;
+c. 了解各方诉求，寻求合适的方案&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;2、沟通的重要性&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;与组内同学沟通&lt;br /&gt;
+a. 已建立的规范 —— 色值一致性&lt;br /&gt;
+b. 提高效率 —— less 插件 &lt;br /&gt;
+c. ant design 本地化 &lt;br /&gt;
+d. 移动端入侵  &lt;br /&gt;
+e. 上线前与工程 owner 沟通，确定下周上线的需求，提前合并代码（危）&lt;br /&gt;
+f. 进行 code review 或 workshop ，聆听大家的建议&lt;/li&gt;
+&lt;li&gt;与其他部门沟通&lt;br /&gt;
+a. 设计师高频沟通&lt;br /&gt;
+i. 开发、测试方案 &lt;br /&gt;
+ii. 摹客上面设计规范修改&lt;br /&gt;
+b. 测试、产品&lt;br /&gt;
+i. 11.16 开会确认当前进度与测试方案 暗黑模式进度&lt;br /&gt;
+ii. 提前与 qa 确认测试时间及排期&lt;br /&gt;
+c. Kim 端&lt;br /&gt;
+i. 暗黑模式配置的开关能力如何通知 Docs&lt;br /&gt;
+ii. Kim 端的方案与规范，统一认知与目标&lt;br /&gt;
+iii. 测试时打包&lt;br /&gt;
+iv. 沟通灰度与上线方案&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;3、上线的坑&lt;/h3&gt;
+&lt;p&gt;其他工程接入包含暗黑模式的组件库代码，需要调整代码&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主要是 fade 转换成 rgba，但是项目多（首页/知识库/文档/表格/h5 加上各自调试子模块，共10项目），每个项目都要构建 &amp;#x26; 发测试灰度 &amp;#x26; 走查 &amp;#x26; 测试，比较麻烦&lt;/li&gt;
+&lt;li&gt;taro 项目没接入 ejs ，使用了 ejs，可以优化成引入 less；taro 项目接入&lt;/li&gt;
+&lt;li&gt;文档 “外部” 项目，webpack 版本落后，没引用 ejs，导致上线后丢失了 css variables 定义，已修复，后续统一使用 less 文件&lt;/li&gt;
+&lt;li&gt;其他 “外部” 项目，也需要合入代码&lt;/li&gt;
+&lt;li&gt;ppt 项目工程结构和其他项目不同，一开始没考虑到，延后接入&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;五、todo与讨论&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;组件库需要随着设计规范更新，后面组件样式优化需求做&lt;/li&gt;
+&lt;li&gt;样式隔离，现在组件样式存在很多“负负得正”场景，（重点需求、重要组件针对性地优化）&lt;/li&gt;
+&lt;li&gt;lint 工具&lt;/li&gt;
+&lt;li&gt;img key 封装&lt;/li&gt;
+&lt;li&gt;css-variables.ejs 挪到 package/ui/style/variables.less&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[记一次前端项目 UI 收敛实践]]></title><description><![CDATA[文章摘要：前段时间我在公司参与开发了内部项目（以下称作 “M 项目” ），开发一段时间后，项目的 UI 设计风格、前端样式代码逐渐散乱。本文记录了一次从散乱到收敛的实践过程，顺便介绍了一种通过代码管理设计规范的方案，希望能给大家带来帮助。 一、背景 M…]]></description><link>https://dwb1994.github.io/blog/mars-ui-convergence/</link><guid isPermaLink="false">https://dwb1994.github.io/blog/mars-ui-convergence/</guid><pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;文章摘要：前段时间我在公司参与开发了内部项目（以下称作 “M 项目” ），开发一段时间后，项目的 UI 设计风格、前端样式代码逐渐散乱。本文记录了一次从散乱到收敛的实践过程，顺便介绍了一种通过代码管理设计规范的方案，希望能给大家带来帮助。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;一、背景&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;M 项目的设计稿，经历过若干次迭代后，设计风格、规范发生了一些变化；UI 设计时有些设计元素偏离了设计规范。&lt;/li&gt;
+&lt;li&gt;前端开发时，code review 频率不高，样式代码的编写有待规范，例如有时有的同学直接从摹客生成的冗余样式代码复制过来用。&lt;/li&gt;
+&lt;li&gt;前端、UI 对设计规范的理解不一致，例如 UI 的 font-weight 有 400/500/600/700 的设计，而前端一般只处理 normal/bold&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;从设计角度，偏离设计规范会引起&lt;strong&gt;信息结构混乱，无法形成有效的亲密性、对比、对齐关系。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在代码中主要的问题表现为：&lt;strong&gt;不使用公共变量、公共变量多、相似颜色多，不利于代码的维护。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因此我抽时间整理了一下需要收敛的样式，与 PM、UI 交流，共同整理了一套设计规范，对齐前端、UI 对设计规范的理解，这有助于规范代码中的设计变量，规范设计师设计 M 项目的设计稿。&lt;/p&gt;
+&lt;h2&gt;二、收敛过程&lt;/h2&gt;
+&lt;h3&gt;1. 梳理变量&lt;/h3&gt;
+&lt;p&gt;排查所有页面及代码，梳理要收敛的样式，梳理成下列形式：&lt;/p&gt;
+&lt;p&gt;（内容大致相似，篇幅有限，在此列举一部分）&lt;/p&gt;
+&lt;pre style=&quot;background-color: #eee; white-space: pre-wrap;&quot;&gt;
+&lt;b&gt;颜色:&lt;/b&gt;
+主色收敛
+1968e5;（旧设计稿用的多）
+1763fb;（正在使用）
+2a69ff（H5 主色）
+005cff（H5 背景色、主色）
+#1a76fc(首页)
+统一成 1763fb？
+&lt;p style=&quot;color: red&quot;&gt;待确认，h5背景色暂时保留&lt;/p&gt;
+&lt;img src=&quot;/img/mars/text.png&quot; /&gt;
+
+&lt;b&gt;字重收敛&lt;/b&gt;
+
+设计师给出的 font-weight 可能包含“400、500、700、800”，开发时减少字重只设置 normal(默认) 和 bold，其他字重不做区分。
+
+设计师在进行设计的时候要注意，默认字重(normal)和 400 等值，bold 和 700 等值，其他粗细的值不应做设计，对于粗体的使用应相对谨慎，粗体影响文本所占据的宽度。
+
+原因：
+1. 区别不大，无法有效地区分信息层级；
+2. 提高代码可维护性
+
+&lt;b&gt;字号收敛&lt;/b&gt;
+
+使用双数字号：部分 UI 设计稿用到了奇数字号（13px 15px等），前端不做处理，而是尽可能和 PC 端相同元素的字号保持一致。
+
+行高规则：
+1. 1.5 倍行高
+2. 保持双数字号的行高
+
+&lt;b&gt;原因：&lt;/b&gt;
+1. 字阶尽可能有一定跨度，便于区分不同的信息层次；
+2. 减少字阶规定的字号个数，便于前端维护样式代码；
+3. 奇数字号在进行对齐的时候不容易对齐，兼容性也有一些问题；
+
+&lt;b&gt;建议的字阶：&lt;/b&gt;
+&lt;img src=&quot;/img/mars/font-level.png&quot; /&gt;
+
+&lt;b&gt;圆角收敛&lt;/b&gt;
+4px 5px 7px 8px 9px
+收敛成两种圆角 =&gt; 4px 8px
+
+&lt;b&gt;边距&lt;/b&gt;
+8的倍数
+4、8、16、24、32
+设计近似为8的倍数时，使用8的倍数的距离
+避免使用 12、20 这样的距离值，如果设计师不可避免，则开发时单独处理
+&lt;/pre&gt;
+&lt;h3&gt;2. 开会沟通&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;前端、产品、设计师开会，沟通梳理的变量；&lt;/li&gt;
+&lt;li&gt;沟通并对齐设计规范的理解、前端提出设计规范的建议；&lt;/li&gt;
+&lt;li&gt;会后：设计师进行设计规范的确认，PM 再次确认修改后的视觉效果。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;3. 收敛详情&lt;/h3&gt;
+&lt;h4&gt;主色：&lt;/h4&gt;
+&lt;p&gt;目前项目和设计稿中存在以下5种主色：&lt;/p&gt;
+&lt;p&gt;1968e5;（旧设计稿用的多）&lt;/p&gt;
+&lt;p&gt;1763fb;（正在使用）&lt;/p&gt;
+&lt;p&gt;2a69ff（H5 主色）&lt;/p&gt;
+&lt;p&gt;005cff（H5 背景色、主色）&lt;/p&gt;
+&lt;p&gt;#1a76fc(首页)&lt;/p&gt;
+&lt;p&gt;收敛结果：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/mars/color.png&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;文本颜色：&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;去掉 text-color 默认的 #000&lt;/li&gt;
+&lt;li&gt;色值的新旧对比
+&lt;img src=&quot;/img/mars/color-text.png&quot;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;附：提升彩色背景下的文字对比度（&lt;a href=&quot;http://dwbbb.com/blog/improve-web-legibility/&quot;&gt;http://dwbbb.com/blog/improve-web-legibility/&lt;/a&gt;）：&lt;/strong&gt;
+在彩色背景上使用灰色文本会降低对比度:
+&lt;img src=&quot;/img/mars/color-compare.jpeg&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;收敛结果：&lt;/h4&gt;
+&lt;img src=&quot;/img/mars/res1.png&quot; width=&quot;40%&quot; /&gt;
+&lt;h4&gt;icon 收敛结果：&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/img/mars/res2.png&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;边框：&lt;/h4&gt;
+&lt;p&gt;输入框边框 #d9d9d9&lt;/p&gt;
+&lt;img src=&quot;/img/mars/res3.png&quot; width=&quot;60%&quot; /&gt;
+&lt;img src=&quot;/img/mars/res4.png&quot; width=&quot;40%&quot; /&gt;
+&lt;p&gt;输入框边框（antd）等，也有很多地方用到 #ebecf0、#d9d9d9&lt;/p&gt;
+&lt;p&gt;普通边框（大部分）#eeeeee&lt;/p&gt;
+&lt;p&gt;表格边框：#f0f0f0&lt;/p&gt;
+&lt;p&gt;共计5种，收敛结果：
+&lt;img src=&quot;/img/mars/res6.png&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;背景色：&lt;/h4&gt;
+&lt;p&gt;h5 首页背景色：#fafbfa&lt;/p&gt;
+&lt;p&gt;h5 子页面：#fafafa&lt;/p&gt;
+&lt;p&gt;pc 大部分页面背景色 #f7f7f7&lt;/p&gt;
+&lt;p&gt;表格背景色：#f8f9fa&lt;/p&gt;
+&lt;p&gt;共计4种，收敛结果：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/mars/res7.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;PC背景色适配新色板的色值：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/mars/res8.png&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;按钮背景色： #eee&lt;/h4&gt;
+&lt;img src=&quot;/img/mars/res9.png&quot; width=&quot;40%&quot; /&gt;
+&lt;p&gt;适配新色板的色值，收敛结果：&lt;/p&gt;
+&lt;img src=&quot;/img/mars/res10.png&quot; width=&quot;40%&quot; /&gt;
+&lt;h4&gt;文本：&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;字重收敛&lt;/p&gt;
+&lt;p&gt;设计师给出的 font-weight 可能包含“&lt;strong&gt;400&lt;/strong&gt;、500、&lt;strong&gt;700&lt;/strong&gt;、800”，开发时减少字重只设置 normal(默认) 和 bold，其他字重不做区分。&lt;/p&gt;
+&lt;p&gt;设计师在进行设计的时候要注意，默认字重(normal)和 400 等值，bold 和 700 等值，其他粗细的值不应做设计，对于粗体的使用应相对谨慎，粗体影响文本所占据的宽度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原因：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;区别不大，无法有效地区分信息层级；提高代码可维护性&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;字号收敛&lt;/p&gt;
+&lt;p&gt;使用双数字号：&lt;/p&gt;
+&lt;p&gt;部分 UI 设计稿用到了奇数字号（13px 15px等），前端不做处理，而是尽可能和 PC 端相同元素的字号保持一致。&lt;/p&gt;
+&lt;p&gt;行高规则：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;1.5 倍行高&lt;/li&gt;
+&lt;li&gt;保持双数字号的行高&lt;/li&gt;
+&lt;li&gt;1.5 倍行高如果是单数则 -1，双数不变&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;原因：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;字阶尽可能有一定跨度，便于区分不同的信息层次；&lt;/strong&gt;&lt;br/&gt;
+&lt;strong&gt;减少字阶规定的字号个数，便于前端维护样式代码；&lt;/strong&gt;&lt;br/&gt;
+&lt;strong&gt;奇数字号在进行对齐的时候不容易对齐，兼容性也有一些问题&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;圆角：&lt;/h4&gt;
+&lt;p&gt;2px 4px 5px 7px 8px 9px 16px&lt;/p&gt;
+&lt;p&gt;共计7种，收敛成4种：&lt;/p&gt;
+&lt;p&gt;收敛成两种主要的圆角 =&gt; 4px 8px&lt;/p&gt;
+&lt;p&gt;和两种不常用的圆角 =&gt; 2px 16px&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/mars/res11.png&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;边距：&lt;/h4&gt;
+&lt;p&gt;8的倍数&lt;/p&gt;
+&lt;p&gt;4、8、16、24、32&lt;/p&gt;
+&lt;p&gt;设计近似为8的倍数时，使用8的倍数的距离&lt;/p&gt;
+&lt;p&gt;避免使用 12、20 这样的距离值，如果设计师不可避免，则开发时单独处理&lt;/p&gt;
+&lt;h3&gt;3. 产出：设计规范&lt;/h3&gt;
+&lt;p&gt;a. 经过上面的梳理，设计师给了我们一份下面这样的设计规范：&lt;/p&gt;
+&lt;img src=&quot;/img/mars/res12.png&quot; width=&quot;40%&quot; /&gt;
+&lt;p&gt;b. 使用 React 管理设计规范，详情请看第三部分（设计规范）&lt;/p&gt;
+&lt;h3&gt;4. 组内分享&lt;/h3&gt;
+&lt;p&gt;进行组内分享，使前端开发者对设计规范理解一致&lt;/p&gt;
+&lt;h2&gt;三、设计规范&lt;/h2&gt;
+&lt;h3&gt;1. 什么是设计规范？&lt;/h3&gt;
+&lt;p&gt;设计规范的形式：以图片&amp;#x26;文字、网页（摹客）的形式展示配色、文本字号、排版信息，提供给设计、开发人员使用，作为设计、开发的参考。&lt;/p&gt;
+&lt;p&gt;效率工程某一版本的旧规范：（内部链接地址）&lt;/p&gt;
+&lt;p&gt;M 项目的设计规范现在是使用 sketch 制作，通过插件上传到摹客平台上&lt;/p&gt;
+&lt;h3&gt;2. 使用 React 管理设计规范&lt;/h3&gt;
+&lt;p&gt;使用 react &amp;#x26; typescript 输出 M 项目的设计规范（sketch 文件），修改配置文件（src/config.ts）中的变量，就可以修改设计规范中的配色、文本字号、排版信息。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关于这个工具有兴趣的同学可以在我的博客里查看详情：&lt;/strong&gt; &lt;a href=&quot;http://dwbbb.com/blog/react-sketchapp-build-design-system/&quot;&gt;http://dwbbb.com/blog/react-sketchapp-build-design-system/&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;3. 为什么使用代码生成设计规范？&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Sketch 中管理设计系统的资产是复杂、容易出错且耗时的。设计资产的稳定迭代能够提高设计师与零设计团队的工作效率。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在设计规范逐渐复杂时，对规范的版本迭代变得越来越难。以往设计师需要手动去修改规范，这样往往容易出错，而且速度比较慢，尤其是制作一些重复性较强的内容的时候，例如调色板上面可能会有上百种颜色，这些色彩可能会频繁调整。&lt;/p&gt;
+&lt;p&gt;使用代码生成设计稿还有一些优点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;代码控制设计规范的版本迭代&lt;/li&gt;
+&lt;li&gt;代码可以方便地输出重复性的视图&lt;/li&gt;
+&lt;li&gt;React-sketchapp 这个工具使用 React，有利于程序上的复用，包括变量文件、组件代码及其样式。&lt;/li&gt;
+&lt;li&gt;使用真实数据或组件生成设计稿，这将使设计稿与最终产出的页面更接近&lt;/li&gt;
+&lt;li&gt;基于 Sketch 定制一些效率工具，例如通过简单的配置生成完整设计规范，从而将设计规范快速应用到一系列项目中&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;4. 内部系统需要设计规范吗？&lt;/h3&gt;
+&lt;p&gt;国内很多团队缺少设计师，或者设计资源不够充足，往往需要程序员直接上手进行设计（尤其是中后台系统），这时程序员就会跟着感觉走，写出丑陋的页面甚至难以维护的代码。缺乏规范的页面即使使用了美观的 UI 库也会成为东施效颦，不伦不类。&lt;/p&gt;
+&lt;p&gt;因此对于这样的团队来说，程序员学习一些设计规范的基本使用方式，将会大大改善这一情况：遵循一定的设计规范进行设计将会快速提高这些页面的颜值，工具赏心悦目，使用者使用起来工作也会很开心。&lt;/p&gt;
+&lt;h2&gt;四、还可以做什么？&lt;/h2&gt;
+&lt;p&gt;确定了一套设计规范，并用代码实现，导出 sketch，这样就够了么？&lt;/p&gt;
+&lt;p&gt;其实还有很多可以做的事情&lt;/p&gt;
+&lt;h3&gt;1. 代码生成 sketch 模板库&lt;/h3&gt;
+&lt;p&gt;设计师可以使用 sketch 中的模板库快速在设计稿中插入组件&lt;/p&gt;
+&lt;img src=&quot;/img/mars/res14.png&quot; width=&quot;80%&quot; /&gt;
+&lt;h3&gt;2. 提供组件的快速配置&lt;/h3&gt;
+&lt;p&gt;（如下图右侧的输入框、下拉选项），快速修改组件&lt;/p&gt;
+&lt;img src=&quot;/img/mars/res15.jpeg&quot; width=&quot;80%&quot; /&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;img src=&quot;/img/mars/res16.png&quot; width=&quot;80%&quot; /&gt;
+&lt;h3&gt;3. 效率工具&lt;/h3&gt;
+&lt;p&gt;可以提供一个站点，在线填写一些非常简单的配置项（例如产品的配色、字号、圆角等），服务端起一个服务运行 mars-sketch-ts 这个项目，提供在线导出设计规范(sketch/图片/pdf)、样式变量（css/js）、sketch 模板库模板（提供给设计师进行业务组件的二次设计或业务设计稿的开发）&lt;/p&gt;
+&lt;h2&gt;五、总结&lt;/h2&gt;
+&lt;p&gt;工具只是一种方式，只是为设计规范提供了准确、稳定的迭代，并体现到代码上。&lt;/p&gt;
+&lt;p&gt;最重要的还是要对齐前端、UI 对设计规范的理解，避免在长时间的设计开发过程中 UI 设计风格、前端样式代码逐渐散乱。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[MPortal Design]]></title><description><![CDATA[作品信息 制作日期: 2018 年 2月 ~…]]></description><link>https://dwb1994.github.io/design/2020-07-20-mportal-design/</link><guid isPermaLink="false">https://dwb1994.github.io/design/2020-07-20-mportal-design/</guid><pubDate>Thu, 06 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;制作日期: 2018 年 2月 ~ 6月&lt;/li&gt;
 &lt;li&gt;设计师: 我 / &lt;a href=&quot;https://github.com/amnsss&quot;&gt;@文杰&lt;/a&gt; / &lt;a href=&quot;https://github.com/kitian616&quot;&gt;@田老师&lt;/a&gt;&lt;/li&gt;
@@ -836,11 +1357,11 @@ tinycolor&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span 
   }
 }
 
-&lt;/style&gt;</content:encoded></item><item><title><![CDATA[YApi Design]]></title><description><![CDATA[作品信息 制作日期: 2017年 8月 ~ 10月 设计师: 我自己 简介: 17k+ Star 的明星开源项目！ YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台。 背景: 本人参与了 YApi…]]></description><link>https://dwb1994.github.io/design/design-yapi/</link><guid isPermaLink="false">https://dwb1994.github.io/design/design-yapi/</guid><pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[YApi Design]]></title><description><![CDATA[作品信息 制作日期: 2017年 8月 ~ 10月 设计师: 我自己 简介: 23k+ Star 的明星开源项目！ YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台。 背景: 本人参与了 YApi…]]></description><link>https://dwb1994.github.io/design/design-yapi/</link><guid isPermaLink="false">https://dwb1994.github.io/design/design-yapi/</guid><pubDate>Fri, 01 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;制作日期: 2017年 8月 ~ 10月&lt;/li&gt;
 &lt;li&gt;设计师: 我自己&lt;/li&gt;
-&lt;li&gt;简介: &lt;strong&gt;17k+ Star 的明星开源项目！&lt;/strong&gt; YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台。&lt;/li&gt;
+&lt;li&gt;简介: &lt;strong&gt;23k+ Star 的明星开源项目！&lt;/strong&gt; YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台。&lt;/li&gt;
 &lt;li&gt;背景: 本人参与了 YApi 一期、二期的开发，其中一期开发没有设计稿，只有简单的原型图。因此在二期开发之前我根据二期开发的需求和交互稿，利用一个周末时间画出了8张界面设计稿，并制作了新版首页(没有设计稿，一边设计一边写页面)。&lt;/li&gt;
 &lt;li&gt;链接: &lt;a href=&quot;https://hellosean1025.github.io/yapi/&quot;&gt;YApi 官网&lt;/a&gt; 丨 &lt;a href=&quot;https://github.com/YMFE/yapi&quot;&gt;Github&lt;/a&gt; | &lt;a href=&quot;http://yapi.demo.qunar.com/&quot;&gt;开放 Demo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -886,11 +1407,11 @@ tinycolor&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span 
 &lt;h3&gt;合照：&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006cGJIjly1fj1zp6yrkvj31jk1117ei.jpg&quot;&gt;
 &lt;img src=&quot;https://tva1.sinaimg.cn/large/006oPFLAly1frs12ay89mj30zk0qodit.jpg&quot;&gt;
-&lt;img src=&quot;https://tva1.sinaimg.cn/large/006oPFLAly1frs12azzmkj30zk0qoadc.jpg&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[YDoc Design]]></title><description><![CDATA[作品信息 制作日期: 2018年 3月 ~ 4月 设计师: 我和@文杰 简介: YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点。目前 Github 500+ star 链接: YDoc 官网 丨 Github 本作品包含一整套 Web…]]></description><link>https://dwb1994.github.io/design/design-ydoc/</link><guid isPermaLink="false">https://dwb1994.github.io/design/design-ydoc/</guid><pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
+&lt;img src=&quot;https://tva1.sinaimg.cn/large/006oPFLAly1frs12azzmkj30zk0qoadc.jpg&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[YDoc Design]]></title><description><![CDATA[作品信息 制作日期: 2018年 3月 ~ 4月 设计师: 我和@文杰 简介: YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点。目前 Github 600+ star 链接: YDoc 官网 丨 Github 本作品包含一整套 Web…]]></description><link>https://dwb1994.github.io/design/design-ydoc/</link><guid isPermaLink="false">https://dwb1994.github.io/design/design-ydoc/</guid><pubDate>Fri, 04 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;作品信息&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;制作日期: 2018年 3月 ~ 4月&lt;/li&gt;
 &lt;li&gt;设计师: 我和&lt;a href=&quot;https://github.com/amnsss&quot;&gt;@文杰&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;简介: YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点。目前 Github 500+ star&lt;/li&gt;
+&lt;li&gt;简介: YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点。目前 Github 600+ star&lt;/li&gt;
 &lt;li&gt;链接: &lt;a href=&quot;https://ydoc.ymfe.org/&quot;&gt;YDoc 官网&lt;/a&gt; 丨 &lt;a href=&quot;https://github.com/YMFE/ydoc&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;本作品包含一整套 Web 站点的设计，采用移动优先原则：优先进行移动端页面的设计与开发，并在 PC 端实现响应式设计，有兴趣的同学可以在 YDoc 的源码里发现这一设计。&lt;/p&gt;
