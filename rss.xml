@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 10 Jan 2022 02:12:39 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，快手 · 前端工程师 👀  🌈 连续…]]></description><link>https://dwb1994.github.io/about/</link><guid isPermaLink="false">https://dwb1994.github.io/about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
-&lt;p&gt;🐶 董文博，快手 · 前端工程师&lt;/p&gt;
-&lt;p&gt;👀 &lt;/p&gt;
-&lt;p&gt;🌈 连续 4 年素描画、水粉画的学习经验，对产品、交互、视觉设计一直保有浓厚兴趣，在追求用户体验的道路上持续探索&lt;/p&gt;
-&lt;p&gt;📱 喜欢折腾各种电子产品，热爱互联网行业，很庆幸大学读了计科专业，现在有能力做些喜欢的事情&lt;/p&gt;
-&lt;p&gt;💡 脑回路清奇，不喜欢枯燥乏味的事情&lt;/p&gt;
-&lt;h2&gt;关于网站&lt;/h2&gt;
-&lt;p&gt;本网站是我的个人博客，平时会记录我的工作、个人研究与兴趣爱好&lt;/p&gt;
-&lt;h2&gt;个人链接&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/people/dwbbb/activities&quot;&gt;知乎&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/dwb1994&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[北京买房日记]]></title><description><![CDATA[一、概况 2021 年圣诞节这天，我做了一个大胆的决定：签下了北京的新房 - 龙湖云璟，位置在昌平区，朱辛庄。 二、看房旅程 一句话总结：从新房到二手房，再到新房 毕业这几年我一直有买房的想法，一直在等待购房资格，入职快手后，工作居住证的时间大概能确定，在 202…]]></description><link>https://dwb1994.github.io/blog/house/</link><guid isPermaLink="false">https://dwb1994.github.io/blog/house/</guid><pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;一、概况&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 11 Jan 2022 03:25:04 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[title: 北京买房日记
+date: 2022-01-03
+tags: []
+type: blog
+photos: /img/house/banner.jpg 一、概况 202…]]></description><link>https://dwb1994.github.io/2022-01-03-house/</link><guid isPermaLink="false">https://dwb1994.github.io/2022-01-03-house/</guid><content:encoded>&lt;h2&gt;&lt;!-- hide --&gt;&lt;/h2&gt;
+&lt;p&gt;title: 北京买房日记
+date: 2022-01-03
+tags: []
+type: blog
+photos: [/img/house/banner.jpg]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;一、概况&lt;/h2&gt;
 &lt;p&gt;2021 年圣诞节这天，我做了一个大胆的决定：签下了北京的新房 - 龙湖云璟，位置在昌平区，朱辛庄。&lt;/p&gt;
 &lt;!-- 首付凑了 272w，掏空了两家两代人的钱包，透支了一些收入，也借了不少钱 --&gt;
 &lt;h2&gt;二、看房旅程&lt;/h2&gt;
@@ -50,7 +49,19 @@
 &lt;!-- 看到这清盘的速度，我也放心了，买到了好楼盘。 --&gt;
 &lt;h2&gt;五、后记&lt;/h2&gt;
 &lt;p&gt;后面就是，借钱把首付凑齐，在此感谢借给我钱的朋友们 😂，办贷款在明年年底封顶的时候，还有时间准备，希望未来工作顺利吧&lt;/p&gt;
-&lt;p&gt;加了准业主群，群里 30 岁上下的年轻人居多，互联网行业的不少，沟通比较顺畅，期待 2024 年底交房吧 ~&lt;/p&gt;</content:encoded></item><item><title><![CDATA[暗黑模式 Code Review & 分享]]></title><description><![CDATA[零、前言 10月份我进行了一次暗黑模式的 code review 11月份我进行了一场 Docs 暗黑模式的分享，在此我整理成一篇博客，记录一下 本次分享带来的是 Docs…]]></description><link>https://dwb1994.github.io/blog/docs-darkmode/</link><guid isPermaLink="false">https://dwb1994.github.io/blog/docs-darkmode/</guid><pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;零、前言&lt;/h2&gt;
+&lt;p&gt;加了准业主群，群里 30 岁上下的年轻人居多，互联网行业的不少，沟通比较顺畅，期待 2024 年底交房吧 ~&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，快手 · 前端工程师 👀  🌈 连续…]]></description><link>https://dwb1994.github.io/about/</link><guid isPermaLink="false">https://dwb1994.github.io/about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
+&lt;p&gt;🐶 董文博，快手 · 前端工程师&lt;/p&gt;
+&lt;p&gt;👀 &lt;/p&gt;
+&lt;p&gt;🌈 连续 4 年素描画、水粉画的学习经验，对产品、交互、视觉设计一直保有浓厚兴趣，在追求用户体验的道路上持续探索&lt;/p&gt;
+&lt;p&gt;📱 喜欢折腾各种电子产品，热爱互联网行业，很庆幸大学读了计科专业，现在有能力做些喜欢的事情&lt;/p&gt;
+&lt;p&gt;💡 脑回路清奇，不喜欢枯燥乏味的事情&lt;/p&gt;
+&lt;h2&gt;关于网站&lt;/h2&gt;
+&lt;p&gt;本网站是我的个人博客，平时会记录我的工作、个人研究与兴趣爱好&lt;/p&gt;
+&lt;h2&gt;个人链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/people/dwbbb/activities&quot;&gt;知乎&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/dwb1994&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[暗黑模式 Code Review & 分享]]></title><description><![CDATA[零、前言 10月份我进行了一次暗黑模式的 code review 11月份我进行了一场 Docs 暗黑模式的分享，在此我整理成一篇博客，记录一下 本次分享带来的是 Docs…]]></description><link>https://dwb1994.github.io/blog/docs-darkmode/</link><guid isPermaLink="false">https://dwb1994.github.io/blog/docs-darkmode/</guid><pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;零、前言&lt;/h2&gt;
 &lt;p&gt;10月份我进行了一次暗黑模式的 code review&lt;/p&gt;
 &lt;p&gt;11月份我进行了一场 Docs 暗黑模式的分享，在此我整理成一篇博客，记录一下&lt;/p&gt;
 &lt;p&gt;本次分享带来的是 Docs 适配暗黑模式的来龙去脉、简要介绍开发方案、分享项目中踩过的坑、引起的思考，希望给大家带来帮助。此外工程上有一些改动，因此借此机会宣讲后续开发规范。&lt;/p&gt;
@@ -972,7 +983,7 @@ import { Redirect } from ‘react-router-dom’;
             component&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; NotFound&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
         &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
     &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[你不知道的 JavaScript (上)]]></title><description><![CDATA[读书笔记 - 未完待续]]></description><link>https://dwb1994.github.io/reading/2019-07-25-js-you-dont-know-1/</link><guid isPermaLink="false">https://dwb1994.github.io/reading/2019-07-25-js-you-dont-know-1/</guid><pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;读书笔记 - 未完待续&lt;/p&gt;</content:encoded></item><item><title><![CDATA[你不知道的 JavaScript (中)]]></title><description><![CDATA[读书笔记 - 未完待续]]></description><link>https://dwb1994.github.io/reading/2019-07-25-js-you-dont-know-2/</link><guid isPermaLink="false">https://dwb1994.github.io/reading/2019-07-25-js-you-dont-know-2/</guid><pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;读书笔记 - 未完待续&lt;/p&gt;</content:encoded></item><item><title><![CDATA[JavaScript 中的作用域]]></title><description><![CDATA[一、定义： 作用域（scope）是一套规则，用于确定“如何查找变量”以及“在何处查找变量”。 以“var a =…]]></description><link>https://dwb1994.github.io/blog/scope/</link><guid isPermaLink="false">https://dwb1994.github.io/blog/scope/</guid><pubDate>Mon, 20 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、定义：&lt;/h3&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[你不知道的 JavaScript (中)]]></title><description><![CDATA[读书笔记 - 未完待续]]></description><link>https://dwb1994.github.io/reading/2019-07-25-js-you-dont-know-2/</link><guid isPermaLink="false">https://dwb1994.github.io/reading/2019-07-25-js-you-dont-know-2/</guid><pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;读书笔记 - 未完待续&lt;/p&gt;</content:encoded></item><item><title><![CDATA[你不知道的 JavaScript (上)]]></title><description><![CDATA[读书笔记 - 未完待续]]></description><link>https://dwb1994.github.io/reading/2019-07-25-js-you-dont-know-1/</link><guid isPermaLink="false">https://dwb1994.github.io/reading/2019-07-25-js-you-dont-know-1/</guid><pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;读书笔记 - 未完待续&lt;/p&gt;</content:encoded></item><item><title><![CDATA[JavaScript 中的作用域]]></title><description><![CDATA[一、定义： 作用域（scope）是一套规则，用于确定“如何查找变量”以及“在何处查找变量”。 以“var a =…]]></description><link>https://dwb1994.github.io/blog/scope/</link><guid isPermaLink="false">https://dwb1994.github.io/blog/scope/</guid><pubDate>Mon, 20 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;一、定义：&lt;/h3&gt;
 &lt;p&gt;作用域（scope）是一套规则，用于确定“如何查找变量”以及“在何处查找变量”。&lt;/p&gt;
 &lt;p&gt;以“var a = 2”为例，变量的赋值操作会执行两个动作：&lt;/p&gt;
 &lt;ol&gt;
