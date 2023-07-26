@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 14 Jul 2023 07:25:24 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，字节跳动 · 前端工程师 🌈 连续…]]></description><link>https://dwb1994.github.io/about/</link><guid isPermaLink="false">https://dwb1994.github.io/about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[dwb-blog]]></title><description><![CDATA[A paginated starter blog demonstrating what Gatsby can do. Extension of gatsby-starter-blog.]]></description><link>https://dwb1994.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Jul 2023 11:26:02 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[关于我 🐶 董文博，字节跳动 · 前端工程师 🌈 连续…]]></description><link>https://dwb1994.github.io/about/</link><guid isPermaLink="false">https://dwb1994.github.io/about/</guid><content:encoded>&lt;h2&gt;关于我&lt;/h2&gt;
 &lt;p&gt;🐶 董文博，字节跳动 · 前端工程师&lt;/p&gt;
 &lt;p&gt;🌈 连续 4 年素描画、水粉画的学习经验，对产品、交互、视觉设计一直保有浓厚兴趣，在追求用户体验的道路上持续探索&lt;/p&gt;
 &lt;p&gt;📱 喜欢折腾各种电子产品，热爱互联网行业，很庆幸大学读了计科专业，现在有能力做些喜欢的事情&lt;/p&gt;
@@ -37,8 +37,8 @@
 &lt;p&gt;回忆一下我的绘画学习历程：小学 1、2、3 年级学习素描，4 年级学习水粉，一共持续了 4 年时间&lt;/p&gt;
 &lt;p&gt;绘画曾经是我最大的爱好，在家里支持下，坚持报班学习了很长时间，小学 5 年级之后，补课重心放到了奥数和英语上，绘画就不再学习了。后来整个学生阶段一直忙于课程和考试，没有继续绘画&lt;/p&gt;
 &lt;p&gt;一直想继续画起来，然而一直犯懒&lt;/p&gt;
-&lt;p&gt;工作之后，一直在追求俗世意义上的成功，好像搞 💰 成了关键的目标，于是对曾经的所有爱好都失去了兴趣&lt;/p&gt;
-&lt;p&gt;为了搞 💰，&lt;strong&gt;焦虑&lt;/strong&gt;与日俱增，然而焦虑并没有什么卵用，徒增烦恼罢了&lt;/p&gt;
+&lt;p&gt;工作之后，一直在追求俗世意义上的成功，好像搞 💰 成了关键的目标，对很多爱好都失去了兴趣&lt;/p&gt;
+&lt;!-- 为了搞 💰，**焦虑**与日俱增，然而焦虑并没有什么卵用，徒增烦恼罢了 --&gt;
 &lt;p&gt;也许是时候慢下脚步，去寻找生活中的美好了&lt;/p&gt;
 &lt;p&gt;这次借茂茂乔迁聚餐的机会，画上这幅画，捡起曾经的爱好，获得一天逃离世俗的宁静，非常 Nice 😄&lt;/p&gt;</content:encoded></item><item><title><![CDATA[暗黑模式 Code Review & 分享]]></title><description><![CDATA[零、前言 10月份我进行了一次暗黑模式的 code review 11月份我进行了一场 Docs 暗黑模式的分享，在此我整理成一篇博客，记录一下 本次分享带来的是 Docs…]]></description><link>https://dwb1994.github.io/blog/docs-darkmode/</link><guid isPermaLink="false">https://dwb1994.github.io/blog/docs-darkmode/</guid><pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;零、前言&lt;/h2&gt;
 &lt;p&gt;10月份我进行了一次暗黑模式的 code review&lt;/p&gt;
